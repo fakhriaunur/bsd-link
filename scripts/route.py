@@ -238,8 +238,18 @@ def solve_scenario(scenario, route_stops, stop_times, trips):
         legs = []
         feasible = True
         full_path = []
+        # chain start node across legs to count inter-leg transfers
+        chain_start_nodes = None
         for a,b in zip(seq, seq[1:]):
-            r = shortest(a,b)
+            # for first leg, start from all nodes at origin; for subsequent, start from previous arrival node
+            if chain_start_nodes is None:
+                starts = nodes_at(a)
+            else:
+                starts = chain_start_nodes
+            if not starts:
+                feasible=False
+                break
+            r = dijkstra(adj, starts, b, goal_mode=goal)
             if r is None:
                 feasible=False
                 break
@@ -247,11 +257,13 @@ def solve_scenario(scenario, route_stops, stop_times, trips):
             total_time += ti
             total_transfers += tr
             legs.append({"from":a,"to":b,"time":ti,"transfers":tr,"path":path})
-            # accumulate full_path with dedup
+            # accumulate full_path with dedup (copy to avoid aliasing leg path)
             if not full_path:
-                full_path = path
+                full_path = list(path)
             else:
                 full_path.extend(path[1:])
+            # next leg starts from arrival node only (transfer cost handled via graph)
+            chain_start_nodes = [path[-1]]
         if not feasible:
             continue
         # choose best by goal
