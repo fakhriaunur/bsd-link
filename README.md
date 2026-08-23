@@ -60,3 +60,15 @@ docs/vanya_observation.md
 
 - Halte -> routes: `jq '.["THE_BREEZE"]' data/json/halte_index.json`
 - Route ordered stops: `data/json/route_stops.json | jq 'map(select(.route_id=="INT_SEKT13")) | sort_by(.seq)'`
+- CLI: `python scripts/bsd.py --halte THE_BREEZE`
+- Next departures: `python scripts/bsd.py --next PASAR_MODERN --time 07:00`
+- Scenario: `python scripts/bsd.py --scenario scenarios/intermoda-aeon-breeze-icon-least-transfer.yaml`
+- List: `python scripts/bsd.py --list-routes` / `--list-stops`
+- Tests: `python -m pytest tests/test_route.py -v`
+
+## Scenarios
+
+- `scenarios/intermoda-aeon-breeze-icon-least-transfer.yaml` (least-transfer, chain counts inter-leg)
+- `scenarios/intermoda-aeon-breeze-icon-least-time.yaml`
+- `scenarios/intermoda-aeon-breeze-icon-least-walk.yaml` (walk AEON<->BREEZE 8min)
+- Engine `scripts/route.py` pure core, Dijkstra tuple cost, transfer wait headway/2, see `docs/timetable_notes.md` for residual ~15min time error.
