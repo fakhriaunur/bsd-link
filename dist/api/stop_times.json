@@ -5819,77 +5819,77 @@
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "06:02",
+    "arrival_time": "06:03",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "ICON",
-    "arrival_time": "06:04",
+    "arrival_time": "06:07",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "06:06",
+    "arrival_time": "06:09",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "06:08",
+    "arrival_time": "06:11",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "06:10",
+    "arrival_time": "06:14",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "06:12",
+    "arrival_time": "06:18",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "06:14",
+    "arrival_time": "06:19",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "06:16",
+    "arrival_time": "06:21",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "06:18",
+    "arrival_time": "06:22",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "ICE_1",
-    "arrival_time": "06:20",
+    "arrival_time": "06:27",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_01_0600",
     "stop_id": "ICE_2",
-    "arrival_time": "06:22",
+    "arrival_time": "06:28",
     "stop_seq": 12,
     "notes": ""
   },
@@ -5903,77 +5903,77 @@
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "06:32",
+    "arrival_time": "06:33",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "ICON",
-    "arrival_time": "06:34",
+    "arrival_time": "06:37",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "06:36",
+    "arrival_time": "06:39",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "06:38",
+    "arrival_time": "06:41",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "06:40",
+    "arrival_time": "06:44",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "06:42",
+    "arrival_time": "06:48",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "06:44",
+    "arrival_time": "06:49",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "06:46",
+    "arrival_time": "06:51",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "06:48",
+    "arrival_time": "06:52",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "ICE_1",
-    "arrival_time": "06:50",
+    "arrival_time": "06:57",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_02_0630",
     "stop_id": "ICE_2",
-    "arrival_time": "06:52",
+    "arrival_time": "06:58",
     "stop_seq": 12,
     "notes": ""
   },
@@ -5987,77 +5987,77 @@
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "08:12",
+    "arrival_time": "08:13",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "ICON",
-    "arrival_time": "08:14",
+    "arrival_time": "08:17",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "08:16",
+    "arrival_time": "08:19",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "08:18",
+    "arrival_time": "08:21",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "08:20",
+    "arrival_time": "08:24",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "08:22",
+    "arrival_time": "08:28",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "08:24",
+    "arrival_time": "08:29",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "08:26",
+    "arrival_time": "08:31",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "08:28",
+    "arrival_time": "08:32",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "ICE_1",
-    "arrival_time": "08:30",
+    "arrival_time": "08:37",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_03_0810",
     "stop_id": "ICE_2",
-    "arrival_time": "08:32",
+    "arrival_time": "08:38",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6071,77 +6071,77 @@
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "08:52",
+    "arrival_time": "08:53",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "ICON",
-    "arrival_time": "08:54",
+    "arrival_time": "08:57",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "08:56",
+    "arrival_time": "08:59",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "08:58",
+    "arrival_time": "09:01",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "09:00",
+    "arrival_time": "09:04",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "09:02",
+    "arrival_time": "09:08",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "09:04",
+    "arrival_time": "09:09",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "09:06",
+    "arrival_time": "09:11",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "09:08",
+    "arrival_time": "09:12",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "ICE_1",
-    "arrival_time": "09:10",
+    "arrival_time": "09:17",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_04_0850",
     "stop_id": "ICE_2",
-    "arrival_time": "09:12",
+    "arrival_time": "09:18",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6155,77 +6155,77 @@
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "10:27",
+    "arrival_time": "10:28",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "ICON",
-    "arrival_time": "10:29",
+    "arrival_time": "10:32",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "10:31",
+    "arrival_time": "10:34",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "10:33",
+    "arrival_time": "10:36",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "10:35",
+    "arrival_time": "10:39",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "10:37",
+    "arrival_time": "10:43",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "10:39",
+    "arrival_time": "10:44",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "10:41",
+    "arrival_time": "10:46",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "10:43",
+    "arrival_time": "10:47",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "ICE_1",
-    "arrival_time": "10:45",
+    "arrival_time": "10:52",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_05_1025",
     "stop_id": "ICE_2",
-    "arrival_time": "10:47",
+    "arrival_time": "10:53",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6239,77 +6239,77 @@
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "12:27",
+    "arrival_time": "12:28",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "ICON",
-    "arrival_time": "12:29",
+    "arrival_time": "12:32",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "12:31",
+    "arrival_time": "12:34",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "12:33",
+    "arrival_time": "12:36",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "12:35",
+    "arrival_time": "12:39",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "12:37",
+    "arrival_time": "12:43",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "12:39",
+    "arrival_time": "12:44",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "12:41",
+    "arrival_time": "12:46",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "12:43",
+    "arrival_time": "12:47",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "ICE_1",
-    "arrival_time": "12:45",
+    "arrival_time": "12:52",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_06_1225",
     "stop_id": "ICE_2",
-    "arrival_time": "12:47",
+    "arrival_time": "12:53",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6323,77 +6323,77 @@
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "13:27",
+    "arrival_time": "13:28",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "ICON",
-    "arrival_time": "13:29",
+    "arrival_time": "13:32",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "13:31",
+    "arrival_time": "13:34",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "13:33",
+    "arrival_time": "13:36",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "13:35",
+    "arrival_time": "13:39",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "13:37",
+    "arrival_time": "13:43",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "13:39",
+    "arrival_time": "13:44",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "13:41",
+    "arrival_time": "13:46",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "13:43",
+    "arrival_time": "13:47",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "ICE_1",
-    "arrival_time": "13:45",
+    "arrival_time": "13:52",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_07_1325",
     "stop_id": "ICE_2",
-    "arrival_time": "13:47",
+    "arrival_time": "13:53",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6407,77 +6407,77 @@
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "14:17",
+    "arrival_time": "14:18",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "ICON",
-    "arrival_time": "14:19",
+    "arrival_time": "14:22",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "14:21",
+    "arrival_time": "14:24",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "14:23",
+    "arrival_time": "14:26",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "14:25",
+    "arrival_time": "14:29",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "14:27",
+    "arrival_time": "14:33",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "14:29",
+    "arrival_time": "14:34",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "14:31",
+    "arrival_time": "14:36",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "14:33",
+    "arrival_time": "14:37",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "ICE_1",
-    "arrival_time": "14:35",
+    "arrival_time": "14:42",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_08_1415",
     "stop_id": "ICE_2",
-    "arrival_time": "14:37",
+    "arrival_time": "14:43",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6491,77 +6491,77 @@
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "15:22",
+    "arrival_time": "15:23",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "ICON",
-    "arrival_time": "15:24",
+    "arrival_time": "15:27",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "15:26",
+    "arrival_time": "15:29",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "15:28",
+    "arrival_time": "15:31",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "15:30",
+    "arrival_time": "15:34",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "15:32",
+    "arrival_time": "15:38",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "15:34",
+    "arrival_time": "15:39",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "15:36",
+    "arrival_time": "15:41",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "15:38",
+    "arrival_time": "15:42",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "ICE_1",
-    "arrival_time": "15:40",
+    "arrival_time": "15:47",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_09_1520",
     "stop_id": "ICE_2",
-    "arrival_time": "15:42",
+    "arrival_time": "15:48",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6575,77 +6575,77 @@
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "16:52",
+    "arrival_time": "16:53",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "ICON",
-    "arrival_time": "16:54",
+    "arrival_time": "16:57",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "16:56",
+    "arrival_time": "16:59",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "16:58",
+    "arrival_time": "17:01",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "17:00",
+    "arrival_time": "17:04",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "17:02",
+    "arrival_time": "17:08",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "17:04",
+    "arrival_time": "17:09",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "17:06",
+    "arrival_time": "17:11",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "17:08",
+    "arrival_time": "17:12",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "ICE_1",
-    "arrival_time": "17:10",
+    "arrival_time": "17:17",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_10_1650",
     "stop_id": "ICE_2",
-    "arrival_time": "17:12",
+    "arrival_time": "17:18",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6659,77 +6659,77 @@
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "17:22",
+    "arrival_time": "17:23",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "ICON",
-    "arrival_time": "17:24",
+    "arrival_time": "17:27",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "17:26",
+    "arrival_time": "17:29",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "17:28",
+    "arrival_time": "17:31",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "17:30",
+    "arrival_time": "17:34",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "17:32",
+    "arrival_time": "17:38",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "17:34",
+    "arrival_time": "17:39",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "17:36",
+    "arrival_time": "17:41",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "17:38",
+    "arrival_time": "17:42",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "ICE_1",
-    "arrival_time": "17:40",
+    "arrival_time": "17:47",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_11_1720",
     "stop_id": "ICE_2",
-    "arrival_time": "17:42",
+    "arrival_time": "17:48",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6743,77 +6743,77 @@
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "18:47",
+    "arrival_time": "18:48",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "ICON",
-    "arrival_time": "18:49",
+    "arrival_time": "18:52",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "18:51",
+    "arrival_time": "18:54",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "18:53",
+    "arrival_time": "18:56",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "18:55",
+    "arrival_time": "18:59",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "18:57",
+    "arrival_time": "19:03",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "18:59",
+    "arrival_time": "19:04",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "19:01",
+    "arrival_time": "19:06",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "19:03",
+    "arrival_time": "19:07",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "ICE_1",
-    "arrival_time": "19:05",
+    "arrival_time": "19:12",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_12_1845",
     "stop_id": "ICE_2",
-    "arrival_time": "19:07",
+    "arrival_time": "19:13",
     "stop_seq": 12,
     "notes": ""
   },
@@ -6827,77 +6827,77 @@
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "SIMPLICITY_1",
-    "arrival_time": "19:17",
+    "arrival_time": "19:18",
     "stop_seq": 2,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "ICON",
-    "arrival_time": "19:19",
+    "arrival_time": "19:22",
     "stop_seq": 3,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "CBD_TIMUR_1",
-    "arrival_time": "19:21",
+    "arrival_time": "19:24",
     "stop_seq": 4,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "NAVAPARK_1",
-    "arrival_time": "19:23",
+    "arrival_time": "19:26",
     "stop_seq": 5,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "THE_BREEZE",
-    "arrival_time": "19:25",
+    "arrival_time": "19:29",
     "stop_seq": 6,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "HALTE_SEKTOR_1_3",
-    "arrival_time": "19:27",
+    "arrival_time": "19:33",
     "stop_seq": 7,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "GREEN_COVE",
-    "arrival_time": "19:29",
+    "arrival_time": "19:34",
     "stop_seq": 8,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "EKA_HOSPITAL_1",
-    "arrival_time": "19:31",
+    "arrival_time": "19:36",
     "stop_seq": 9,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "EKA_HOSPITAL_2",
-    "arrival_time": "19:33",
+    "arrival_time": "19:37",
     "stop_seq": 10,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "ICE_1",
-    "arrival_time": "19:35",
+    "arrival_time": "19:42",
     "stop_seq": 11,
     "notes": ""
   },
   {
     "trip_id": "INT_SEKT13_13_1915",
     "stop_id": "ICE_2",
-    "arrival_time": "19:37",
+    "arrival_time": "19:43",
     "stop_seq": 12,
     "notes": ""
   },

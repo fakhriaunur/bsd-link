@@ -1,7 +1,7 @@
 {
   "name": "BSD Link API",
   "version": "v1",
-  "generated_at": "2026-08-23T00:52:01.524898Z",
+  "generated_at": "2026-08-23T00:54:30.246661Z",
   "counts": {
     "routes": 9,
     "stops": 41,
@@ -14,6 +14,7 @@
   "endpoints": [
     "build_meta.json",
     "halte_index.json",
+    "index.json",
     "route_stops.json",
     "routes.json",
     "stop_times.json",
