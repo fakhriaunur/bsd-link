@@ -1,0 +1,165 @@
+{
+  "THE_BREEZE": [
+    "BREEZE_AEON_ICE",
+    "GRN_SEKT13",
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R1",
+    "INT_DEPARK_R2",
+    "INT_SEKT13",
+    "SEKT13_GRN",
+    "SEKT13_INT"
+  ],
+  "NAVAPARK_1": [
+    "BREEZE_AEON_ICE",
+    "GRN_SEKT13",
+    "INT_DEPARK_R1",
+    "INT_SEKT13",
+    "SEKT13_GRN",
+    "SEKT13_INT"
+  ],
+  "CBD_TIMUR_2": [
+    "BREEZE_AEON_ICE",
+    "INT_BREEZE_INT",
+    "SEKT13_GRN",
+    "SEKT13_INT"
+  ],
+  "CBD_TIMUR_1": [
+    "BREEZE_AEON_ICE",
+    "GRN_SEKT13",
+    "INT_DEPARK_R2",
+    "INT_SEKT13"
+  ],
+  "SML_PLAZA": [
+    "BREEZE_AEON_ICE",
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R1"
+  ],
+  "GOP_1": [
+    "BREEZE_AEON_ICE",
+    "INT_BREEZE_INT"
+  ],
+  "CBD_BARAT_1": [
+    "BREEZE_AEON_ICE",
+    "INT_DEPARK_R2",
+    "SEKT13_INT"
+  ],
+  "AEON_MALL_2": [
+    "BREEZE_AEON_ICE",
+    "INT_BREEZE_INT",
+    "SEKT13_INT"
+  ],
+  "AEON_MALL_1": [
+    "BREEZE_AEON_ICE",
+    "INT_DEPARK_R2",
+    "SEKT13_INT"
+  ],
+  "AEON_MALL_LOBBY": [
+    "BREEZE_AEON_ICE"
+  ],
+  "ICE_1": [
+    "BREEZE_AEON_ICE",
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R1",
+    "INT_DEPARK_R2",
+    "INT_SEKT13"
+  ],
+  "ICE_2": [
+    "BREEZE_AEON_ICE",
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R1",
+    "INT_SEKT13"
+  ],
+  "PASAR_MODERN": [
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R1",
+    "INT_DEPARK_R2",
+    "INT_SEKT13",
+    "INT_VANYA_INT",
+    "SEKT13_INT"
+  ],
+  "VANYA_PARK": [
+    "INT_VANYA_INT"
+  ],
+  "SIMPLICITY_1": [
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R1",
+    "INT_DEPARK_R2",
+    "INT_SEKT13",
+    "SEKT13_INT"
+  ],
+  "ICON": [
+    "INT_DEPARK_R2",
+    "INT_SEKT13",
+    "SEKT13_INT"
+  ],
+  "HALTE_SEKTOR_1_3": [
+    "GRN_SEKT13",
+    "INT_SEKT13",
+    "SEKT13_GRN",
+    "SEKT13_INT"
+  ],
+  "GREEN_COVE": [
+    "INT_SEKT13",
+    "SEKT13_GRN",
+    "SEKT13_INT"
+  ],
+  "EKA_HOSPITAL_1": [
+    "INT_SEKT13"
+  ],
+  "EKA_HOSPITAL_2": [
+    "INT_SEKT13"
+  ],
+  "GREENWICH_PARK": [
+    "GRN_SEKT13",
+    "INT_DEPARK_R1",
+    "INT_DEPARK_R2",
+    "SEKT13_GRN"
+  ],
+  "JATERE": [
+    "GRN_SEKT13"
+  ],
+  "DE_MAJA": [
+    "GRN_SEKT13",
+    "INT_DEPARK_R2"
+  ],
+  "DE_NARA": [
+    "GRN_SEKT13"
+  ],
+  "DE_PARK_2": [
+    "GRN_SEKT13"
+  ],
+  "FORRESTA_2": [
+    "GRN_SEKT13",
+    "SEKT13_GRN"
+  ],
+  "FBL_2": [
+    "INT_BREEZE_INT",
+    "SEKT13_GRN"
+  ],
+  "BCA": [
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R2",
+    "SEKT13_GRN"
+  ],
+  "Q_BIG": [
+    "INT_BREEZE_INT",
+    "SEKT13_GRN"
+  ],
+  "ELDORADO_1": [
+    "INT_BREEZE_INT",
+    "INT_DEPARK_R1"
+  ],
+  "CASA_DE_PARCO_1": [
+    "INT_DEPARK_R1"
+  ],
+  "DIGITAL_HUB_1": [
+    "INT_DEPARK_R1"
+  ],
+  "DE_PARK_LOBBY": [
+    "INT_DEPARK_R1",
+    "INT_DEPARK_R2"
+  ],
+  "FBL_1": [
+    "INT_DEPARK_R2"
+  ]
+}

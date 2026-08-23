@@ -1,0 +1,974 @@
+[
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "07:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "09:02",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "09:09",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "09:11",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "10:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "11:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "12:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "13:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "14:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "15:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "16:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "8",
+    "departure_time": "17:30",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight row 17:30"
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "18:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "route_id": "BREEZE_AEON_ICE",
+    "bus_no": "7",
+    "departure_time": "19:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "route_id": "INT_SEKT13",
+    "bus_no": "1",
+    "departure_time": "06:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "route_id": "INT_SEKT13",
+    "bus_no": "1",
+    "departure_time": "06:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "route_id": "INT_SEKT13",
+    "bus_no": "2",
+    "departure_time": "08:10",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "route_id": "INT_SEKT13",
+    "bus_no": "2",
+    "departure_time": "08:50",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "route_id": "INT_SEKT13",
+    "bus_no": "1",
+    "departure_time": "10:25",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "route_id": "INT_SEKT13",
+    "bus_no": "2",
+    "departure_time": "12:25",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "route_id": "INT_SEKT13",
+    "bus_no": "1",
+    "departure_time": "13:25",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "route_id": "INT_SEKT13",
+    "bus_no": "2",
+    "departure_time": "14:15",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "route_id": "INT_SEKT13",
+    "bus_no": "1",
+    "departure_time": "15:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "route_id": "INT_SEKT13",
+    "bus_no": "2",
+    "departure_time": "16:50",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "route_id": "INT_SEKT13",
+    "bus_no": "2",
+    "departure_time": "17:20",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "route_id": "INT_SEKT13",
+    "bus_no": "1",
+    "departure_time": "18:45",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "route_id": "INT_SEKT13",
+    "bus_no": "1",
+    "departure_time": "19:15",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "route_id": "SEKT13_INT",
+    "bus_no": "1",
+    "departure_time": "07:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "route_id": "SEKT13_INT",
+    "bus_no": "2",
+    "departure_time": "07:40",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "route_id": "SEKT13_INT",
+    "bus_no": "1",
+    "departure_time": "09:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "route_id": "SEKT13_INT",
+    "bus_no": "2",
+    "departure_time": "09:50",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "route_id": "SEKT13_INT",
+    "bus_no": "1",
+    "departure_time": "11:25",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "route_id": "SEKT13_INT",
+    "bus_no": "2",
+    "departure_time": "12:25",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "route_id": "SEKT13_INT",
+    "bus_no": "1",
+    "departure_time": "13:45",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "route_id": "SEKT13_INT",
+    "bus_no": "2",
+    "departure_time": "14:35",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "route_id": "SEKT13_INT",
+    "bus_no": "1",
+    "departure_time": "15:15",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "route_id": "SEKT13_INT",
+    "bus_no": "2",
+    "departure_time": "16:45",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "route_id": "SEKT13_INT",
+    "bus_no": "1",
+    "departure_time": "17:50",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "route_id": "SEKT13_INT",
+    "bus_no": "2",
+    "departure_time": "18:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "route_id": "SEKT13_INT",
+    "bus_no": "1",
+    "departure_time": "19:45",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "1",
+    "departure_time": "06:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "1",
+    "departure_time": "06:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "2",
+    "departure_time": "08:10",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "2",
+    "departure_time": "08:40",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "3",
+    "departure_time": "10:15",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "3",
+    "departure_time": "10:45",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "4",
+    "departure_time": "12:25",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "4",
+    "departure_time": "12:45",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "5",
+    "departure_time": "14:55",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "6",
+    "departure_time": "16:20",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "6",
+    "departure_time": "17:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "7",
+    "departure_time": "18:35",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "route_id": "GRN_SEKT13",
+    "bus_no": "7",
+    "departure_time": "19:05",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "1",
+    "departure_time": "07:05",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "1",
+    "departure_time": "07:35",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "2",
+    "departure_time": "09:15",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "2",
+    "departure_time": "09:45",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "3",
+    "departure_time": "11:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "3",
+    "departure_time": "11:50",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "4",
+    "departure_time": "13:25",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "4",
+    "departure_time": "13:55",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "5",
+    "departure_time": "15:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "5",
+    "departure_time": "16:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "6",
+    "departure_time": "17:25",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "6",
+    "departure_time": "18:05",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "route_id": "SEKT13_GRN",
+    "bus_no": "7",
+    "departure_time": "19:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "06:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "07:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "08:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "09:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "10:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "11:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "12:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "13:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "14:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "15:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "16:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "17:00",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "18:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "route_id": "INT_DEPARK_R1",
+    "bus_no": "1",
+    "departure_time": "19:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "06:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "07:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "08:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "09:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "10:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "11:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "12:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "13:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "14:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "15:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "16:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "17:20",
+    "service_day": "DAILY",
+    "highlight": true,
+    "notes": "highlight"
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "18:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "route_id": "INT_DEPARK_R2",
+    "bus_no": "1",
+    "departure_time": "19:20",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "06:30",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "07:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "08:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "09:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "10:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "11:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "12:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "13:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "14:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "15:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "16:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "17:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "18:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "route_id": "INT_BREEZE_INT",
+    "bus_no": "1",
+    "departure_time": "19:00",
+    "service_day": "DAILY",
+    "highlight": false,
+    "notes": ""
+  }
+]

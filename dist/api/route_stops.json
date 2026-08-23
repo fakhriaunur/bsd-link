@@ -1,0 +1,667 @@
+[
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "THE_BREEZE",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": "origin loop"
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "NAVAPARK_1",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "CBD_TIMUR_2",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "CBD_TIMUR_1",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "SML_PLAZA",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "GOP_1",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "CBD_BARAT_1",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "AEON_MALL_2",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "AEON_MALL_1",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "AEON_MALL_LOBBY",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "ICE_1",
+    "seq": 11,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "stop_id": "ICE_2",
+    "seq": 12,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "GREENWICH_PARK",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "JATERE",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "DE_MAJA",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "DE_NARA",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "DE_PARK_2",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "NAVAPARK_1",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "FORRESTA_2",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "THE_BREEZE",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "CBD_TIMUR_1",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "PASAR_MODERN",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "ELDORADO_1",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "ICE_1",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "ICE_2",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "Q_BIG",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "BCA",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "FBL_2",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "THE_BREEZE",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "SML_PLAZA",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "GOP_1",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "CBD_TIMUR_2",
+    "seq": 11,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "AEON_MALL_2",
+    "seq": 12,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "stop_id": "SIMPLICITY_1",
+    "seq": 13,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "PASAR_MODERN",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "SIMPLICITY_1",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "ELDORADO_1",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "ICE_1",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "ICE_2",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "GREENWICH_PARK",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "NAVAPARK_1",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "THE_BREEZE",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "SML_PLAZA",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "CASA_DE_PARCO_1",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "DIGITAL_HUB_1",
+    "seq": 11,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "stop_id": "DE_PARK_LOBBY",
+    "seq": 12,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "PASAR_MODERN",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "SIMPLICITY_1",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "ICON",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "CBD_BARAT_1",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "AEON_MALL_1",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "CBD_TIMUR_1",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "ICE_1",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "GREENWICH_PARK",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "DE_MAJA",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "BCA",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "FBL_1",
+    "seq": 11,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "THE_BREEZE",
+    "seq": 12,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "stop_id": "DE_PARK_LOBBY",
+    "seq": 13,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "PASAR_MODERN",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "SIMPLICITY_1",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "ICON",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "CBD_TIMUR_1",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "NAVAPARK_1",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "THE_BREEZE",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "GREEN_COVE",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "EKA_HOSPITAL_1",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "EKA_HOSPITAL_2",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "ICE_1",
+    "seq": 11,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_SEKT13",
+    "stop_id": "ICE_2",
+    "seq": 12,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "INT_VANYA_INT",
+    "stop_id": "PASAR_MODERN",
+    "seq": 1,
+    "is_inferred": true,
+    "notes": "hub inferred"
+  },
+  {
+    "route_id": "INT_VANYA_INT",
+    "stop_id": "VANYA_PARK",
+    "seq": 2,
+    "is_inferred": true,
+    "notes": "overview low-res inferred"
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "GREEN_COVE",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "THE_BREEZE",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "CBD_TIMUR_2",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "NAVAPARK_1",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "FORRESTA_2",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "FBL_2",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "BCA",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "Q_BIG",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "stop_id": "GREENWICH_PARK",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "seq": 1,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "GREEN_COVE",
+    "seq": 2,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "THE_BREEZE",
+    "seq": 3,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "NAVAPARK_1",
+    "seq": 4,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "CBD_TIMUR_2",
+    "seq": 5,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "AEON_MALL_1",
+    "seq": 6,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "AEON_MALL_2",
+    "seq": 7,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "CBD_BARAT_1",
+    "seq": 8,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "SIMPLICITY_1",
+    "seq": 9,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "ICON",
+    "seq": 10,
+    "is_inferred": false,
+    "notes": ""
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "stop_id": "PASAR_MODERN",
+    "seq": 11,
+    "is_inferred": false,
+    "notes": ""
+  }
+]

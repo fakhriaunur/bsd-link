@@ -1,0 +1,330 @@
+[
+  {
+    "stop_id": "PASAR_MODERN",
+    "stop_name_raw": "PASAR MODERN TERMINAL INTERMODA",
+    "stop_name_norm": "PASAR MODERN",
+    "stop_type": "HUB",
+    "transfer_type": "BUSWAY_TRANSJAKARTA_JRC_MRT_FATMAWATI|JRC_TRANS_JABODETABEK|JRC_MRT_LEBAK_BULUS|JAC_SOETTA",
+    "notes": "HUB Stasiun Cisauk"
+  },
+  {
+    "stop_id": "STASIUN_CISAUK",
+    "stop_name_raw": "STASIUN KERETA API CISAUK",
+    "stop_name_norm": "STASIUN CISAUK",
+    "stop_type": "HUB",
+    "transfer_type": "NONE",
+    "notes": "transfer halte"
+  },
+  {
+    "stop_id": "ICE_1",
+    "stop_name_raw": "ICE 1",
+    "stop_name_norm": "ICE 1",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": "Indonesia Convention Exhibition"
+  },
+  {
+    "stop_id": "ICE_2",
+    "stop_name_raw": "ICE 2",
+    "stop_name_norm": "ICE 2",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "ICON",
+    "stop_name_raw": "ICON",
+    "stop_name_norm": "ICON",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": "Icon BSD"
+  },
+  {
+    "stop_id": "THE_BREEZE",
+    "stop_name_raw": "THE BREEZE",
+    "stop_name_norm": "THE BREEZE",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": "Breeze BSD"
+  },
+  {
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "stop_name_raw": "HALTE SEKTOR 1.3",
+    "stop_name_norm": "HALTE SEKTOR 1.3",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": "Sektor 1.3 cluster"
+  },
+  {
+    "stop_id": "GREENWICH_PARK",
+    "stop_name_raw": "GREENWICH PARK",
+    "stop_name_norm": "GREENWICH PARK",
+    "stop_type": "HUB",
+    "transfer_type": "NONE",
+    "notes": "Greenwich Park Office"
+  },
+  {
+    "stop_id": "AEON_MALL_1",
+    "stop_name_raw": "AEON MALL 1",
+    "stop_name_norm": "AEON MALL 1",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "AEON_MALL_2",
+    "stop_name_raw": "AEON MALL 2",
+    "stop_name_norm": "AEON MALL 2",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "CBD_BARAT_1",
+    "stop_name_raw": "CBD Barat 1",
+    "stop_name_norm": "CBD BARAT 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "CBD_BARAT_2",
+    "stop_name_raw": "CBD Barat 2",
+    "stop_name_norm": "CBD BARAT 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "CBD_TIMUR_1",
+    "stop_name_raw": "CBD Timur 1",
+    "stop_name_norm": "CBD TIMUR 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "CBD_TIMUR_2",
+    "stop_name_raw": "CBD Timur 2",
+    "stop_name_norm": "CBD TIMUR 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "NAVAPARK_1",
+    "stop_name_raw": "NavaPark 1",
+    "stop_name_norm": "NAVAPARK 1",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "GREEN_COVE",
+    "stop_name_raw": "Green Cove",
+    "stop_name_norm": "GREEN COVE",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": "Sektor 1.3"
+  },
+  {
+    "stop_id": "EKA_HOSPITAL_1",
+    "stop_name_raw": "Eka Hospital 1",
+    "stop_name_norm": "EKA HOSPITAL 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "EKA_HOSPITAL_2",
+    "stop_name_raw": "Eka Hospital 2",
+    "stop_name_norm": "EKA HOSPITAL 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "RUKO_MADRID",
+    "stop_name_raw": "Ruko Madrid",
+    "stop_name_norm": "RUKO MADRID",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "POLSEK_SERPONG",
+    "stop_name_raw": "Polsek Serpong",
+    "stop_name_norm": "POLSEK SERPONG",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "DE_PARK_LOBBY",
+    "stop_name_raw": "Lobby TheBreeze/DePark Lobby",
+    "stop_name_norm": "DE PARK LOBBY",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": "Casa De Parco / Digital Hub"
+  },
+  {
+    "stop_id": "VANYA_PARK",
+    "stop_name_raw": "VANYA PARK",
+    "stop_name_norm": "VANYA PARK",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": "inferred from overview low-res"
+  },
+  {
+    "stop_id": "SIMPLICITY_1",
+    "stop_name_raw": "Simplicity 1",
+    "stop_name_norm": "SIMPLICITY 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "SIMPLICITY_2",
+    "stop_name_raw": "Simplicity 2",
+    "stop_name_norm": "SIMPLICITY 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "ELDORADO_1",
+    "stop_name_raw": "Eldorado 1",
+    "stop_name_norm": "ELDORADO 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "ELDORADO_2",
+    "stop_name_raw": "Eldorado 2",
+    "stop_name_norm": "ELDORADO 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "Q_BIG",
+    "stop_name_raw": "Q BIG",
+    "stop_name_norm": "Q BIG",
+    "stop_type": "HALTE_BUS",
+    "transfer_type": "NONE",
+    "notes": "QBig BSD City"
+  },
+  {
+    "stop_id": "BCA",
+    "stop_name_raw": "BCA",
+    "stop_name_norm": "BCA",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "FBL_1",
+    "stop_name_raw": "FBL 1",
+    "stop_name_norm": "FBL 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": "Foresta"
+  },
+  {
+    "stop_id": "FBL_2",
+    "stop_name_raw": "FBL 2",
+    "stop_name_norm": "FBL 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "STUDENT_1",
+    "stop_name_raw": "Student 1",
+    "stop_name_norm": "STUDENT 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "FORRESTA_2",
+    "stop_name_raw": "Foresta 2",
+    "stop_name_norm": "FORRESTA 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "DE_MAJA",
+    "stop_name_raw": "De Maja",
+    "stop_name_norm": "DE MAJA",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": "Greenwich"
+  },
+  {
+    "stop_id": "DE_NARA",
+    "stop_name_raw": "De Nara",
+    "stop_name_norm": "DE NARA",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "DE_PARK_2",
+    "stop_name_raw": "De Park 2",
+    "stop_name_norm": "DE PARK 2",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "JATERE",
+    "stop_name_raw": "Jatere",
+    "stop_name_norm": "JATERE",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "CASA_DE_PARCO_1",
+    "stop_name_raw": "Casa De Parco 1",
+    "stop_name_norm": "CASA DE PARCO 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "DIGITAL_HUB_1",
+    "stop_name_raw": "Digital Hub 1",
+    "stop_name_norm": "DIGITAL HUB 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "AEON_MALL_LOBBY",
+    "stop_name_raw": "AEON Mall Lobby Lobby",
+    "stop_name_norm": "AEON MALL LOBBY",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  },
+  {
+    "stop_id": "SML_PLAZA",
+    "stop_name_raw": "SML Plaza",
+    "stop_name_norm": "SML PLAZA",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": "near GOP1"
+  },
+  {
+    "stop_id": "GOP_1",
+    "stop_name_raw": "GOP 1",
+    "stop_name_norm": "GOP 1",
+    "stop_type": "BUS_STOP",
+    "transfer_type": "NONE",
+    "notes": ""
+  }
+]

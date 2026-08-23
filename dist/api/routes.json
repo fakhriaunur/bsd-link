@@ -1,0 +1,110 @@
+[
+  {
+    "route_id": "INT_SEKT13",
+    "route_name": "RUTE INTERMODA - SEKTOR I.3",
+    "route_color_hex": "#1E40AF",
+    "route_color_name": "dark blue",
+    "origin": "PASAR_MODERN",
+    "destination": "ICE_2",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image1",
+    "is_inferred": false
+  },
+  {
+    "route_id": "SEKT13_INT",
+    "route_name": "RUTE SEKTOR I.3 - INTERMODA",
+    "route_color_hex": "#06B6D4",
+    "route_color_name": "cyan",
+    "origin": "HALTE_SEKTOR_1_3",
+    "destination": "PASAR_MODERN",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image2",
+    "is_inferred": false
+  },
+  {
+    "route_id": "GRN_SEKT13",
+    "route_name": "RUTE GREENWICH PARK - SEKTOR I.3",
+    "route_color_hex": "#166534",
+    "route_color_name": "dark green",
+    "origin": "GREENWICH_PARK",
+    "destination": "HALTE_SEKTOR_1_3",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image3",
+    "is_inferred": false
+  },
+  {
+    "route_id": "SEKT13_GRN",
+    "route_name": "RUTE SEKTOR I.3 - GREENWICH PARK",
+    "route_color_hex": "#84CC16",
+    "route_color_name": "lime",
+    "origin": "HALTE_SEKTOR_1_3",
+    "destination": "GREENWICH_PARK",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image4",
+    "is_inferred": false
+  },
+  {
+    "route_id": "INT_DEPARK_R1",
+    "route_name": "RUTE INTERMODA - DEPARK (RUTE 1)",
+    "route_color_hex": "#DC2626",
+    "route_color_name": "red",
+    "origin": "PASAR_MODERN",
+    "destination": "DE_PARK_LOBBY",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image5",
+    "is_inferred": false
+  },
+  {
+    "route_id": "INT_DEPARK_R2",
+    "route_name": "RUTE INTERMODA - DEPARK (RUTE 2)",
+    "route_color_hex": "#EC4899",
+    "route_color_name": "pink",
+    "origin": "PASAR_MODERN",
+    "destination": "DE_PARK_LOBBY",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image6",
+    "is_inferred": false
+  },
+  {
+    "route_id": "BREEZE_AEON_ICE",
+    "route_name": "RUTE THE BREEZE - AEON - ICE - THE BREEZE",
+    "route_color_hex": "#9333EA",
+    "route_color_name": "purple",
+    "origin": "THE_BREEZE",
+    "destination": "THE_BREEZE",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image7",
+    "is_inferred": false
+  },
+  {
+    "route_id": "INT_BREEZE_INT",
+    "route_name": "RUTE INTERMODA - THE BREEZE - INTERMODA",
+    "route_color_hex": "#EAB308",
+    "route_color_name": "yellow",
+    "origin": "PASAR_MODERN",
+    "destination": "PASAR_MODERN",
+    "direction": "LOOP",
+    "service_note": "",
+    "source_image": "Image9",
+    "is_inferred": false
+  },
+  {
+    "route_id": "INT_VANYA_INT",
+    "route_name": "RUTE INTERMODA - VANYA PARK - INTERMODA",
+    "route_color_hex": "#F97316",
+    "route_color_name": "orange",
+    "origin": "PASAR_MODERN",
+    "destination": "PASAR_MODERN",
+    "direction": "LOOP",
+    "service_note": "INFERRED_FROM_OVERVIEW",
+    "source_image": "overview",
+    "is_inferred": true
+  }
+]

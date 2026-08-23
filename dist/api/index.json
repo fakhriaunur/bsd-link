@@ -1,0 +1,32 @@
+{
+  "name": "BSD Link API",
+  "version": "v1",
+  "generated_at": "2026-08-23T00:52:01.524898Z",
+  "counts": {
+    "routes": 9,
+    "stops": 41,
+    "route_stops": 95,
+    "trips": 108,
+    "stop_times": 1259,
+    "inferred_routes": 1,
+    "inferred_route_stops": 2
+  },
+  "endpoints": [
+    "build_meta.json",
+    "halte_index.json",
+    "route_stops.json",
+    "routes.json",
+    "stop_times.json",
+    "stops.json",
+    "trips.json",
+    "routes.geojson"
+  ],
+  "usage": {
+    "routes": "/api/routes.json",
+    "stops": "/api/stops.json",
+    "halte_index": "/api/halte_index.json",
+    "route_stops": "/api/route_stops.json",
+    "trips": "/api/trips.json",
+    "stop_times": "/api/stop_times.json"
+  }
+}

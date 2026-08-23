@@ -1,0 +1,8815 @@
+[
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "07:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "07:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "07:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "07:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "GOP_1",
+    "arrival_time": "07:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "07:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "07:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "07:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "07:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "ICE_1",
+    "arrival_time": "07:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_01_0700",
+    "stop_id": "ICE_2",
+    "arrival_time": "07:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:02",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:04",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:06",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "09:08",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "09:10",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "GOP_1",
+    "arrival_time": "09:12",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "09:14",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "09:16",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "09:18",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "09:20",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "ICE_1",
+    "arrival_time": "09:22",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_02_0902",
+    "stop_id": "ICE_2",
+    "arrival_time": "09:24",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:09",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:11",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:13",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "09:15",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "09:17",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "GOP_1",
+    "arrival_time": "09:19",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "09:21",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "09:23",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "09:25",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "09:27",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "ICE_1",
+    "arrival_time": "09:29",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_03_0909",
+    "stop_id": "ICE_2",
+    "arrival_time": "09:31",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:11",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:13",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:15",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "09:17",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "09:19",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "GOP_1",
+    "arrival_time": "09:21",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "09:23",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "09:25",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "09:27",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "09:29",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "ICE_1",
+    "arrival_time": "09:31",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_04_0911",
+    "stop_id": "ICE_2",
+    "arrival_time": "09:33",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "10:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "10:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "10:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "10:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "10:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "GOP_1",
+    "arrival_time": "10:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "10:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "10:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "10:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "10:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "ICE_1",
+    "arrival_time": "10:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_05_1000",
+    "stop_id": "ICE_2",
+    "arrival_time": "10:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "11:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "11:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "11:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "11:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "11:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "GOP_1",
+    "arrival_time": "11:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "11:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "11:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "11:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "11:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "ICE_1",
+    "arrival_time": "11:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_06_1100",
+    "stop_id": "ICE_2",
+    "arrival_time": "11:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "12:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "12:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "12:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "12:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "GOP_1",
+    "arrival_time": "12:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "12:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "12:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "12:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "12:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "ICE_1",
+    "arrival_time": "12:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_07_1230",
+    "stop_id": "ICE_2",
+    "arrival_time": "12:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "13:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "13:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "13:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "13:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "GOP_1",
+    "arrival_time": "13:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "13:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "13:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "13:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "13:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "ICE_1",
+    "arrival_time": "13:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_08_1330",
+    "stop_id": "ICE_2",
+    "arrival_time": "13:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "14:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "14:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "14:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "14:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "14:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "GOP_1",
+    "arrival_time": "14:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "14:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "14:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "14:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "14:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "ICE_1",
+    "arrival_time": "14:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_09_1430",
+    "stop_id": "ICE_2",
+    "arrival_time": "14:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "15:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "15:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "15:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "15:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "GOP_1",
+    "arrival_time": "15:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "15:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "15:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "15:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "15:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "ICE_1",
+    "arrival_time": "15:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_10_1530",
+    "stop_id": "ICE_2",
+    "arrival_time": "15:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "16:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "16:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "16:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "16:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "16:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "GOP_1",
+    "arrival_time": "16:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "16:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "16:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "16:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "16:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "ICE_1",
+    "arrival_time": "16:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_11_1630",
+    "stop_id": "ICE_2",
+    "arrival_time": "16:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "17:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "17:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "17:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "17:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "GOP_1",
+    "arrival_time": "17:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "17:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "17:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "17:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "17:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "ICE_1",
+    "arrival_time": "17:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_12_1730",
+    "stop_id": "ICE_2",
+    "arrival_time": "17:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "18:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "18:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "18:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "18:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "GOP_1",
+    "arrival_time": "18:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "18:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "18:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "18:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "18:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "ICE_1",
+    "arrival_time": "18:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_13_1830",
+    "stop_id": "ICE_2",
+    "arrival_time": "18:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "19:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "19:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "19:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "19:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "GOP_1",
+    "arrival_time": "19:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "19:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "19:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "19:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "AEON_MALL_LOBBY",
+    "arrival_time": "19:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "ICE_1",
+    "arrival_time": "19:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "BREEZE_AEON_ICE_14_1930",
+    "stop_id": "ICE_2",
+    "arrival_time": "19:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "06:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "JATERE",
+    "arrival_time": "06:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "06:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "DE_NARA",
+    "arrival_time": "06:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "06:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "06:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "06:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "06:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "06:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_01_0600",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "06:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "06:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "JATERE",
+    "arrival_time": "06:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "06:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "DE_NARA",
+    "arrival_time": "06:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "06:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "06:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "06:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "06:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "06:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_02_0630",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "06:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "08:10",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "JATERE",
+    "arrival_time": "08:12",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "08:14",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "DE_NARA",
+    "arrival_time": "08:16",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "08:18",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "08:20",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "08:22",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "08:24",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "08:26",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_03_0810",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "08:28",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "08:40",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "JATERE",
+    "arrival_time": "08:42",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "08:44",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "DE_NARA",
+    "arrival_time": "08:46",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "08:48",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "08:50",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "08:52",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "08:54",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "08:56",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_04_0840",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "08:58",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "10:15",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "JATERE",
+    "arrival_time": "10:17",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "10:19",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "DE_NARA",
+    "arrival_time": "10:21",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "10:23",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "10:25",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "10:27",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "10:29",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "10:31",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_05_1015",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "10:33",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "10:45",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "JATERE",
+    "arrival_time": "10:47",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "10:49",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "DE_NARA",
+    "arrival_time": "10:51",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "10:53",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "10:55",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "10:57",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "10:59",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "11:01",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_06_1045",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "11:03",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "12:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "JATERE",
+    "arrival_time": "12:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "12:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "DE_NARA",
+    "arrival_time": "12:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "12:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "12:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "12:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "12:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_07_1225",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "12:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "12:45",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "JATERE",
+    "arrival_time": "12:47",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "12:49",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "DE_NARA",
+    "arrival_time": "12:51",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "12:53",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "12:55",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "12:57",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:59",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "13:01",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_08_1245",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "13:03",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "14:55",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "JATERE",
+    "arrival_time": "14:57",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "14:59",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "DE_NARA",
+    "arrival_time": "15:01",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "15:03",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "15:05",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "15:07",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:09",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "15:11",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_09_1455",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "15:13",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "16:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "JATERE",
+    "arrival_time": "16:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "16:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "DE_NARA",
+    "arrival_time": "16:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "16:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "16:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "16:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "16:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "16:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_10_1620",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "16:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "17:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "JATERE",
+    "arrival_time": "17:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "17:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "DE_NARA",
+    "arrival_time": "17:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "17:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "17:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "17:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "17:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_11_1700",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "17:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "18:35",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "JATERE",
+    "arrival_time": "18:37",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "18:39",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "DE_NARA",
+    "arrival_time": "18:41",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "18:43",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "18:45",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "18:47",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:49",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "18:51",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_12_1835",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "18:53",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "19:05",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "JATERE",
+    "arrival_time": "19:07",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "19:09",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "DE_NARA",
+    "arrival_time": "19:11",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "DE_PARK_2",
+    "arrival_time": "19:13",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "19:15",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "19:17",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:19",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "19:21",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "GRN_SEKT13_13_1905",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "19:23",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "06:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "06:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "ICE_1",
+    "arrival_time": "06:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "ICE_2",
+    "arrival_time": "06:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "Q_BIG",
+    "arrival_time": "06:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "BCA",
+    "arrival_time": "06:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "FBL_2",
+    "arrival_time": "06:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "06:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "06:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "GOP_1",
+    "arrival_time": "06:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "06:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "06:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_01_0630",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "06:54",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "07:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "07:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "ICE_1",
+    "arrival_time": "07:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "ICE_2",
+    "arrival_time": "07:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "Q_BIG",
+    "arrival_time": "07:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "BCA",
+    "arrival_time": "07:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "FBL_2",
+    "arrival_time": "07:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "07:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "GOP_1",
+    "arrival_time": "07:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "07:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "07:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_02_0700",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "07:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "08:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "08:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "ICE_1",
+    "arrival_time": "08:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "ICE_2",
+    "arrival_time": "08:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "Q_BIG",
+    "arrival_time": "08:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "BCA",
+    "arrival_time": "08:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "FBL_2",
+    "arrival_time": "08:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "08:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "08:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "GOP_1",
+    "arrival_time": "08:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "08:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "08:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_03_0800",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "08:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "09:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "09:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "ICE_1",
+    "arrival_time": "09:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "ICE_2",
+    "arrival_time": "09:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "Q_BIG",
+    "arrival_time": "09:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "BCA",
+    "arrival_time": "09:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "FBL_2",
+    "arrival_time": "09:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "09:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "GOP_1",
+    "arrival_time": "09:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "09:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_04_0900",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "09:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "10:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "10:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "ICE_1",
+    "arrival_time": "10:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "ICE_2",
+    "arrival_time": "10:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "Q_BIG",
+    "arrival_time": "10:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "BCA",
+    "arrival_time": "10:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "FBL_2",
+    "arrival_time": "10:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "10:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "10:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "GOP_1",
+    "arrival_time": "10:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "10:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "10:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_05_1000",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "10:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "11:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "11:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "ICE_1",
+    "arrival_time": "11:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "ICE_2",
+    "arrival_time": "11:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "Q_BIG",
+    "arrival_time": "11:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "BCA",
+    "arrival_time": "11:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "FBL_2",
+    "arrival_time": "11:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "11:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "11:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "GOP_1",
+    "arrival_time": "11:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "11:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "11:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_06_1100",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "11:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "12:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "12:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "ICE_1",
+    "arrival_time": "12:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "ICE_2",
+    "arrival_time": "12:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "Q_BIG",
+    "arrival_time": "12:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "BCA",
+    "arrival_time": "12:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "FBL_2",
+    "arrival_time": "12:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "12:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "GOP_1",
+    "arrival_time": "12:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "12:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "12:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_07_1200",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "12:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "13:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "13:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "ICE_1",
+    "arrival_time": "13:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "ICE_2",
+    "arrival_time": "13:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "Q_BIG",
+    "arrival_time": "13:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "BCA",
+    "arrival_time": "13:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "FBL_2",
+    "arrival_time": "13:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "13:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "GOP_1",
+    "arrival_time": "13:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "13:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "13:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_08_1300",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "13:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "14:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "14:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "ICE_1",
+    "arrival_time": "14:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "ICE_2",
+    "arrival_time": "14:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "Q_BIG",
+    "arrival_time": "14:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "BCA",
+    "arrival_time": "14:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "FBL_2",
+    "arrival_time": "14:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "14:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "14:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "GOP_1",
+    "arrival_time": "14:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "14:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "14:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_09_1400",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "14:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "15:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "15:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "ICE_1",
+    "arrival_time": "15:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "ICE_2",
+    "arrival_time": "15:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "Q_BIG",
+    "arrival_time": "15:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "BCA",
+    "arrival_time": "15:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "FBL_2",
+    "arrival_time": "15:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "15:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "GOP_1",
+    "arrival_time": "15:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "15:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "15:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_10_1500",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "15:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "16:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "16:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "ICE_1",
+    "arrival_time": "16:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "ICE_2",
+    "arrival_time": "16:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "Q_BIG",
+    "arrival_time": "16:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "BCA",
+    "arrival_time": "16:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "FBL_2",
+    "arrival_time": "16:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "16:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "16:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "GOP_1",
+    "arrival_time": "16:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "16:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "16:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_11_1600",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "16:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "17:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "17:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "ICE_1",
+    "arrival_time": "17:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "ICE_2",
+    "arrival_time": "17:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "Q_BIG",
+    "arrival_time": "17:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "BCA",
+    "arrival_time": "17:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "FBL_2",
+    "arrival_time": "17:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "17:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "GOP_1",
+    "arrival_time": "17:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "17:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "17:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_12_1700",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "17:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "18:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "18:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "ICE_1",
+    "arrival_time": "18:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "ICE_2",
+    "arrival_time": "18:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "Q_BIG",
+    "arrival_time": "18:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "BCA",
+    "arrival_time": "18:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "FBL_2",
+    "arrival_time": "18:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "18:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "GOP_1",
+    "arrival_time": "18:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "18:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "18:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_13_1800",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "18:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "19:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "19:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "ICE_1",
+    "arrival_time": "19:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "ICE_2",
+    "arrival_time": "19:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "Q_BIG",
+    "arrival_time": "19:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "BCA",
+    "arrival_time": "19:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "FBL_2",
+    "arrival_time": "19:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "19:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "GOP_1",
+    "arrival_time": "19:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "19:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "19:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_BREEZE_INT_14_1900",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "19:24",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "06:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "06:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "06:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "ICE_1",
+    "arrival_time": "06:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "ICE_2",
+    "arrival_time": "06:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "06:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "06:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "06:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "06:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "06:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "06:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_01_0600",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "06:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "07:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "07:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "07:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "ICE_1",
+    "arrival_time": "07:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "ICE_2",
+    "arrival_time": "07:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "07:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "07:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "07:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "07:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "07:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_02_0700",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "07:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "08:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "08:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "08:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "ICE_1",
+    "arrival_time": "08:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "ICE_2",
+    "arrival_time": "08:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "08:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "08:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "08:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "08:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "08:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "08:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_03_0800",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "08:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "09:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "09:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "09:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "ICE_1",
+    "arrival_time": "09:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "ICE_2",
+    "arrival_time": "09:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "09:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "09:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "09:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "09:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_04_0900",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "09:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "10:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "10:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "10:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "ICE_1",
+    "arrival_time": "10:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "ICE_2",
+    "arrival_time": "10:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "10:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "10:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "10:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "10:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "10:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "10:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_05_1000",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "10:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "11:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "11:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "11:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "ICE_1",
+    "arrival_time": "11:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "ICE_2",
+    "arrival_time": "11:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "11:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "11:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "11:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "11:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "11:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "11:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_06_1100",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "11:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "12:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "12:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "12:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "ICE_1",
+    "arrival_time": "12:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "ICE_2",
+    "arrival_time": "12:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "12:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "12:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "12:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "12:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "12:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_07_1200",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "12:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "13:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "13:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "13:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "ICE_1",
+    "arrival_time": "13:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "ICE_2",
+    "arrival_time": "13:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "13:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "13:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "13:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "13:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "13:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_08_1300",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "13:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "14:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "14:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "14:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "ICE_1",
+    "arrival_time": "14:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "ICE_2",
+    "arrival_time": "14:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "14:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "14:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "14:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "14:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "14:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "14:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_09_1400",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "14:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "15:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "15:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "15:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "ICE_1",
+    "arrival_time": "15:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "ICE_2",
+    "arrival_time": "15:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "15:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "15:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "15:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "15:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "15:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_10_1500",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "15:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "16:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "16:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "16:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "ICE_1",
+    "arrival_time": "16:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "ICE_2",
+    "arrival_time": "16:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "16:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "16:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "16:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "16:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "16:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "16:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_11_1600",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "16:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "17:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "17:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "17:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "ICE_1",
+    "arrival_time": "17:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "ICE_2",
+    "arrival_time": "17:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "17:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "17:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "17:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "17:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "17:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_12_1700",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "17:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "18:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "18:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "18:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "ICE_1",
+    "arrival_time": "18:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "ICE_2",
+    "arrival_time": "18:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "18:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "18:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "18:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "18:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "18:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_13_1800",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "18:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "19:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "19:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "ELDORADO_1",
+    "arrival_time": "19:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "ICE_1",
+    "arrival_time": "19:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "ICE_2",
+    "arrival_time": "19:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "19:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "19:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "SML_PLAZA",
+    "arrival_time": "19:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "CASA_DE_PARCO_1",
+    "arrival_time": "19:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "DIGITAL_HUB_1",
+    "arrival_time": "19:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R1_14_1900",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "19:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "06:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "06:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "ICON",
+    "arrival_time": "06:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "06:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "06:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "06:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "ICE_1",
+    "arrival_time": "06:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "06:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "06:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "BCA",
+    "arrival_time": "06:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "FBL_1",
+    "arrival_time": "06:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "06:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_01_0620",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "06:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "07:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "07:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "ICON",
+    "arrival_time": "07:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "07:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "07:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "07:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "ICE_1",
+    "arrival_time": "07:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "07:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "07:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "BCA",
+    "arrival_time": "07:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "FBL_1",
+    "arrival_time": "07:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_02_0720",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "07:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "08:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "08:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "ICON",
+    "arrival_time": "08:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "08:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "08:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "08:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "ICE_1",
+    "arrival_time": "08:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "08:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "08:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "BCA",
+    "arrival_time": "08:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "FBL_1",
+    "arrival_time": "08:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "08:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_03_0820",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "08:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "09:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "09:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "ICON",
+    "arrival_time": "09:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "09:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "09:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "09:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "ICE_1",
+    "arrival_time": "09:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "09:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "09:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "BCA",
+    "arrival_time": "09:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "FBL_1",
+    "arrival_time": "09:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_04_0920",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "09:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "10:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "10:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "ICON",
+    "arrival_time": "10:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "10:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "10:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "10:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "ICE_1",
+    "arrival_time": "10:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "10:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "10:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "BCA",
+    "arrival_time": "10:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "FBL_1",
+    "arrival_time": "10:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "10:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_05_1020",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "10:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "11:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "11:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "ICON",
+    "arrival_time": "11:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "11:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "11:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "11:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "ICE_1",
+    "arrival_time": "11:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "11:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "11:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "BCA",
+    "arrival_time": "11:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "FBL_1",
+    "arrival_time": "11:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "11:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_06_1120",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "11:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "12:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "12:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "ICON",
+    "arrival_time": "12:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "12:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "12:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "12:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "ICE_1",
+    "arrival_time": "12:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "12:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "12:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "BCA",
+    "arrival_time": "12:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "FBL_1",
+    "arrival_time": "12:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_07_1220",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "12:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "13:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "13:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "ICON",
+    "arrival_time": "13:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "13:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "13:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "13:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "ICE_1",
+    "arrival_time": "13:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "13:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "13:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "BCA",
+    "arrival_time": "13:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "FBL_1",
+    "arrival_time": "13:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_08_1320",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "13:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "14:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "14:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "ICON",
+    "arrival_time": "14:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "14:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "14:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "14:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "ICE_1",
+    "arrival_time": "14:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "14:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "14:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "BCA",
+    "arrival_time": "14:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "FBL_1",
+    "arrival_time": "14:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "14:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_09_1420",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "14:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "15:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "15:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "ICON",
+    "arrival_time": "15:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "15:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "15:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "15:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "ICE_1",
+    "arrival_time": "15:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "15:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "15:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "BCA",
+    "arrival_time": "15:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "FBL_1",
+    "arrival_time": "15:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_10_1520",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "15:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "16:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "16:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "ICON",
+    "arrival_time": "16:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "16:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "16:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "16:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "ICE_1",
+    "arrival_time": "16:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "16:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "16:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "BCA",
+    "arrival_time": "16:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "FBL_1",
+    "arrival_time": "16:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "16:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_11_1620",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "16:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "17:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "17:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "ICON",
+    "arrival_time": "17:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "17:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "17:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "17:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "ICE_1",
+    "arrival_time": "17:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "17:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "17:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "BCA",
+    "arrival_time": "17:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "FBL_1",
+    "arrival_time": "17:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_12_1720",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "17:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "18:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "18:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "ICON",
+    "arrival_time": "18:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "18:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "18:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "18:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "ICE_1",
+    "arrival_time": "18:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "18:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "18:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "BCA",
+    "arrival_time": "18:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "FBL_1",
+    "arrival_time": "18:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_13_1820",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "18:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "19:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "19:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "ICON",
+    "arrival_time": "19:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "19:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "19:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "19:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "ICE_1",
+    "arrival_time": "19:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "19:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "DE_MAJA",
+    "arrival_time": "19:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "BCA",
+    "arrival_time": "19:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "FBL_1",
+    "arrival_time": "19:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_DEPARK_R2_14_1920",
+    "stop_id": "DE_PARK_LOBBY",
+    "arrival_time": "19:44",
+    "stop_seq": 13,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "06:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "06:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "ICON",
+    "arrival_time": "06:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "06:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "06:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "06:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "06:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "06:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "06:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "06:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "ICE_1",
+    "arrival_time": "06:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_01_0600",
+    "stop_id": "ICE_2",
+    "arrival_time": "06:22",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "06:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "06:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "ICON",
+    "arrival_time": "06:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "06:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "06:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "06:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "06:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "06:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "06:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "06:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "ICE_1",
+    "arrival_time": "06:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_02_0630",
+    "stop_id": "ICE_2",
+    "arrival_time": "06:52",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "08:10",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "08:12",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "ICON",
+    "arrival_time": "08:14",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "08:16",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "08:18",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "08:20",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "08:22",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "08:24",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "08:26",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "08:28",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "ICE_1",
+    "arrival_time": "08:30",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_03_0810",
+    "stop_id": "ICE_2",
+    "arrival_time": "08:32",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "08:50",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "08:52",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "ICON",
+    "arrival_time": "08:54",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "08:56",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "08:58",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:00",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "09:02",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "09:04",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "09:06",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "09:08",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "ICE_1",
+    "arrival_time": "09:10",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_04_0850",
+    "stop_id": "ICE_2",
+    "arrival_time": "09:12",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "10:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "10:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "ICON",
+    "arrival_time": "10:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "10:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "10:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "10:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "10:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "10:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "10:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "10:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "ICE_1",
+    "arrival_time": "10:45",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_05_1025",
+    "stop_id": "ICE_2",
+    "arrival_time": "10:47",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "12:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "12:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "ICON",
+    "arrival_time": "12:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "12:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "12:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "12:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "12:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "12:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "12:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "ICE_1",
+    "arrival_time": "12:45",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_06_1225",
+    "stop_id": "ICE_2",
+    "arrival_time": "12:47",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "13:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "13:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "ICON",
+    "arrival_time": "13:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "13:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "13:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "13:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "13:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "13:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "13:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "ICE_1",
+    "arrival_time": "13:45",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_07_1325",
+    "stop_id": "ICE_2",
+    "arrival_time": "13:47",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "14:15",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "14:17",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "ICON",
+    "arrival_time": "14:19",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "14:21",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "14:23",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "14:25",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "14:27",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "14:29",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "14:31",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "14:33",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "ICE_1",
+    "arrival_time": "14:35",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_08_1415",
+    "stop_id": "ICE_2",
+    "arrival_time": "14:37",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "15:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "15:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "ICON",
+    "arrival_time": "15:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "15:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "15:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "15:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "15:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "15:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "15:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "ICE_1",
+    "arrival_time": "15:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_09_1520",
+    "stop_id": "ICE_2",
+    "arrival_time": "15:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "16:50",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "16:52",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "ICON",
+    "arrival_time": "16:54",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "16:56",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "16:58",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:00",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "17:02",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "17:04",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "17:06",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "17:08",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "ICE_1",
+    "arrival_time": "17:10",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_10_1650",
+    "stop_id": "ICE_2",
+    "arrival_time": "17:12",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "17:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "17:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "ICON",
+    "arrival_time": "17:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "17:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "17:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "17:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "17:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "17:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "17:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "ICE_1",
+    "arrival_time": "17:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_11_1720",
+    "stop_id": "ICE_2",
+    "arrival_time": "17:42",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "18:45",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "18:47",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "ICON",
+    "arrival_time": "18:49",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "18:51",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "18:53",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:55",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "18:57",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "18:59",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "19:01",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "19:03",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "ICE_1",
+    "arrival_time": "19:05",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_12_1845",
+    "stop_id": "ICE_2",
+    "arrival_time": "19:07",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "19:15",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "19:17",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "ICON",
+    "arrival_time": "19:19",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "CBD_TIMUR_1",
+    "arrival_time": "19:21",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "19:23",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:25",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "19:27",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "19:29",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "EKA_HOSPITAL_1",
+    "arrival_time": "19:31",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "EKA_HOSPITAL_2",
+    "arrival_time": "19:33",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "ICE_1",
+    "arrival_time": "19:35",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "INT_SEKT13_13_1915",
+    "stop_id": "ICE_2",
+    "arrival_time": "19:37",
+    "stop_seq": 12,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "07:05",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "07:07",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:09",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "07:11",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "07:13",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "07:15",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "FBL_2",
+    "arrival_time": "07:17",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "BCA",
+    "arrival_time": "07:19",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "Q_BIG",
+    "arrival_time": "07:21",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_01_0705",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "07:23",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "07:35",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "07:37",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:39",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "07:41",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "07:43",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "07:45",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "FBL_2",
+    "arrival_time": "07:47",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "BCA",
+    "arrival_time": "07:49",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "Q_BIG",
+    "arrival_time": "07:51",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_02_0735",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "07:53",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "09:15",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "09:17",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:19",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:21",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:23",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "09:25",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "FBL_2",
+    "arrival_time": "09:27",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "BCA",
+    "arrival_time": "09:29",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "Q_BIG",
+    "arrival_time": "09:31",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_03_0915",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "09:33",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "09:45",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "09:47",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:49",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:51",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:53",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "09:55",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "FBL_2",
+    "arrival_time": "09:57",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "BCA",
+    "arrival_time": "09:59",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "Q_BIG",
+    "arrival_time": "10:01",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_04_0945",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "10:03",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "11:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "11:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "11:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "11:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "11:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "11:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "FBL_2",
+    "arrival_time": "11:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "BCA",
+    "arrival_time": "11:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "Q_BIG",
+    "arrival_time": "11:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_05_1120",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "11:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "11:50",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "11:52",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "11:54",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "11:56",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "11:58",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "12:00",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "FBL_2",
+    "arrival_time": "12:02",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "BCA",
+    "arrival_time": "12:04",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "Q_BIG",
+    "arrival_time": "12:06",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_06_1150",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "12:08",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "13:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "13:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "13:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "13:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "13:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "FBL_2",
+    "arrival_time": "13:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "BCA",
+    "arrival_time": "13:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "Q_BIG",
+    "arrival_time": "13:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_07_1325",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "13:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "13:55",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "13:57",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:59",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "14:01",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "14:03",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "14:05",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "FBL_2",
+    "arrival_time": "14:07",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "BCA",
+    "arrival_time": "14:09",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "Q_BIG",
+    "arrival_time": "14:11",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_08_1355",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "14:13",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "15:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "15:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "15:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "15:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "15:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "FBL_2",
+    "arrival_time": "15:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "BCA",
+    "arrival_time": "15:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "Q_BIG",
+    "arrival_time": "15:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_09_1530",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "15:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "16:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "16:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "16:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "16:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "16:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "16:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "FBL_2",
+    "arrival_time": "16:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "BCA",
+    "arrival_time": "16:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "Q_BIG",
+    "arrival_time": "16:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_10_1600",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "16:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "17:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "17:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "17:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "17:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "17:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "FBL_2",
+    "arrival_time": "17:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "BCA",
+    "arrival_time": "17:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "Q_BIG",
+    "arrival_time": "17:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_11_1725",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "17:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "18:05",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "18:07",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:09",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "18:11",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "18:13",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "18:15",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "FBL_2",
+    "arrival_time": "18:17",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "BCA",
+    "arrival_time": "18:19",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "Q_BIG",
+    "arrival_time": "18:21",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_12_1805",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "18:23",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "19:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "19:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "19:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "19:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "FORRESTA_2",
+    "arrival_time": "19:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "FBL_2",
+    "arrival_time": "19:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "BCA",
+    "arrival_time": "19:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "Q_BIG",
+    "arrival_time": "19:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_GRN_13_1930",
+    "stop_id": "GREENWICH_PARK",
+    "arrival_time": "19:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "07:00",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "07:02",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:04",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "07:06",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "07:08",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "07:10",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "07:12",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "07:14",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "07:16",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "ICON",
+    "arrival_time": "07:18",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_01_0700",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "07:20",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "07:40",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "07:42",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "07:44",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "07:46",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "07:48",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "07:50",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "07:52",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "07:54",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "07:56",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "ICON",
+    "arrival_time": "07:58",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_02_0740",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "08:00",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "09:20",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "09:22",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:24",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:26",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:28",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "09:30",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "09:32",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "09:34",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "09:36",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "ICON",
+    "arrival_time": "09:38",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_03_0920",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "09:40",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "09:50",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "09:52",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "09:54",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "09:56",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "09:58",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "10:00",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "10:02",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "10:04",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "10:06",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "ICON",
+    "arrival_time": "10:08",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_04_0950",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "10:10",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "11:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "11:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "11:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "11:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "11:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "11:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "11:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "11:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "11:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "ICON",
+    "arrival_time": "11:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_05_1125",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "11:45",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "12:25",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "12:27",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "12:29",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "12:31",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "12:33",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "12:35",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "12:37",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "12:39",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "12:41",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "ICON",
+    "arrival_time": "12:43",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_06_1225",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "12:45",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "13:45",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "13:47",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "13:49",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "13:51",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "13:53",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "13:55",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "13:57",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "13:59",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "14:01",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "ICON",
+    "arrival_time": "14:03",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_07_1345",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "14:05",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "14:35",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "14:37",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "14:39",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "14:41",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "14:43",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "14:45",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "14:47",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "14:49",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "14:51",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "ICON",
+    "arrival_time": "14:53",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_08_1435",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "14:55",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "15:15",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "15:17",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "15:19",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "15:21",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "15:23",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "15:25",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "15:27",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "15:29",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "15:31",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "ICON",
+    "arrival_time": "15:33",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_09_1515",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "15:35",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "16:45",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "16:47",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "16:49",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "16:51",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "16:53",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "16:55",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "16:57",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "16:59",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "17:01",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "ICON",
+    "arrival_time": "17:03",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_10_1645",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "17:05",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "17:50",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "17:52",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "17:54",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "17:56",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "17:58",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "18:00",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "18:02",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "18:04",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "18:06",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "ICON",
+    "arrival_time": "18:08",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_11_1750",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "18:10",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "18:30",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "18:32",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "18:34",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "18:36",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "18:38",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "18:40",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "18:42",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "18:44",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "18:46",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "ICON",
+    "arrival_time": "18:48",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_12_1830",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "18:50",
+    "stop_seq": 11,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "HALTE_SEKTOR_1_3",
+    "arrival_time": "19:45",
+    "stop_seq": 1,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "GREEN_COVE",
+    "arrival_time": "19:47",
+    "stop_seq": 2,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "THE_BREEZE",
+    "arrival_time": "19:49",
+    "stop_seq": 3,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "NAVAPARK_1",
+    "arrival_time": "19:51",
+    "stop_seq": 4,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "CBD_TIMUR_2",
+    "arrival_time": "19:53",
+    "stop_seq": 5,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "AEON_MALL_1",
+    "arrival_time": "19:55",
+    "stop_seq": 6,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "AEON_MALL_2",
+    "arrival_time": "19:57",
+    "stop_seq": 7,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "CBD_BARAT_1",
+    "arrival_time": "19:59",
+    "stop_seq": 8,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "SIMPLICITY_1",
+    "arrival_time": "20:01",
+    "stop_seq": 9,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "ICON",
+    "arrival_time": "20:03",
+    "stop_seq": 10,
+    "notes": ""
+  },
+  {
+    "trip_id": "SEKT13_INT_13_1945",
+    "stop_id": "PASAR_MODERN",
+    "arrival_time": "20:05",
+    "stop_seq": 11,
+    "notes": ""
+  }
+]
