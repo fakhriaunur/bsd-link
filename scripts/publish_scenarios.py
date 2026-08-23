@@ -138,17 +138,18 @@ def publish():
     dist_root = ROOT / "dist"
     api_exists = (dist_root / "api" / "index.json").exists()
     scen_exists = (dist_root / "scenarios" / "index.json").exists()
-    # generate combined landing if not exists or update
+    scen_li = '<li><a href="scenarios/index.json">scenarios/index.json</a> - scenario results</li>' if scen_exists else ''
+    scen_p = '<p>Scenarios: <code>/scenarios/intermoda-*.json</code> + <code>.yaml</code></p>' if scen_exists else ''
     html = f"""<!doctype html><meta charset=utf-8><title>BSD Link</title>
 <h1>BSD Link</h1>
 <p>Dataset + Scenarios</p>
 <ul>
 <li><a href="api/index.json">api/index.json</a> - API manifest</li>
 <li><a href="api/routes.geojson">api/routes.geojson</a> - 41 Points + 9 LineStrings</li>
-{"<li><a href=\"scenarios/index.json\">scenarios/index.json</a> - scenario results</li>" if scen_exists else ""}
+{scen_li}
 </ul>
 <p>API: <code>/api/routes.json</code> <code>/api/stops.json</code> <code>/api/halte_index.json</code></p>
-{"<p>Scenarios: <code>/scenarios/intermoda-*.json</code> + <code>.yaml</code></p>" if scen_exists else ""}
+{scen_p}
 <p>Dataset via <code>python scripts/build.py</code>, scenarios via <code>route.solve_scenario</code></p>
 """
     (dist_root / "index.html").write_text(html, encoding="utf-8")
