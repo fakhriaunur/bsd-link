@@ -1,13 +1,14 @@
-name: publish
+name: publish-scenarios
 
 on:
   push:
     branches: [main]
     paths:
-      - "data/csv/**"
-      - "scripts/build.py"
-      - "scripts/publish.py"
-      - ".github/workflows/publish.yml"
+      - "scenarios/**"
+      - "scripts/route.py"
+      - "scripts/bsd.py"
+      - "scripts/publish_scenarios.py"
+      - ".github/workflows/publish-scenarios.yml"
   workflow_dispatch:
 
 permissions:
@@ -28,11 +29,12 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install pytest pyyaml
-      - run: python scripts/build.py
-      - run: python scripts/build.py --check
+      # no dataset build - depends on snapshot from last publish-dataset (dist/api committed)
       - run: python -m pytest tests/test_route.py -q
-      - run: python scripts/publish.py
-      - run: python scripts/publish.py --check
+      - run: python scripts/publish_scenarios.py
+      - run: python scripts/publish_scenarios.py --check
+      # ensure dataset api still present for Pages artifact (scenarios workflow must not drop api)
+      - run: ls -R dist
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

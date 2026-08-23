@@ -1,0 +1,98 @@
+{
+  "scenario": "intermoda-aeon-breeze-icon-least-time",
+  "origin": "PASAR_MODERN",
+  "destinations_ordered": [
+    "ICON",
+    "THE_BREEZE",
+    "AEON_MALL_2"
+  ],
+  "return_to_origin": true,
+  "goal": "least-time",
+  "total_time": 102,
+  "total_transfers": 2,
+  "legs": [
+    {
+      "from": "PASAR_MODERN",
+      "to": "ICON",
+      "time": 6,
+      "transfers": 0,
+      "path": [
+        "PASAR_MODERN__INT_DEPARK_R2",
+        "SIMPLICITY_1__INT_DEPARK_R2",
+        "ICON__INT_DEPARK_R2"
+      ]
+    },
+    {
+      "from": "ICON",
+      "to": "THE_BREEZE",
+      "time": 23,
+      "transfers": 0,
+      "path": [
+        "ICON__INT_DEPARK_R2",
+        "CBD_BARAT_1__INT_DEPARK_R2",
+        "AEON_MALL_1__INT_DEPARK_R2",
+        "CBD_TIMUR_1__INT_DEPARK_R2",
+        "ICE_1__INT_DEPARK_R2",
+        "GREENWICH_PARK__INT_DEPARK_R2",
+        "DE_MAJA__INT_DEPARK_R2",
+        "BCA__INT_DEPARK_R2",
+        "FBL_1__INT_DEPARK_R2",
+        "THE_BREEZE__INT_DEPARK_R2"
+      ]
+    },
+    {
+      "from": "THE_BREEZE",
+      "to": "AEON_MALL_2",
+      "time": 34,
+      "transfers": 1,
+      "path": [
+        "THE_BREEZE__INT_DEPARK_R2",
+        "THE_BREEZE__INT_BREEZE_INT",
+        "SML_PLAZA__INT_BREEZE_INT",
+        "GOP_1__INT_BREEZE_INT",
+        "CBD_TIMUR_2__INT_BREEZE_INT",
+        "AEON_MALL_2__INT_BREEZE_INT"
+      ]
+    },
+    {
+      "from": "AEON_MALL_2",
+      "to": "PASAR_MODERN",
+      "time": 39,
+      "transfers": 1,
+      "path": [
+        "AEON_MALL_2__INT_BREEZE_INT",
+        "SIMPLICITY_1__INT_BREEZE_INT",
+        "SIMPLICITY_1__SEKT13_INT",
+        "ICON__SEKT13_INT",
+        "PASAR_MODERN__SEKT13_INT"
+      ]
+    }
+  ],
+  "full_path": [
+    "PASAR_MODERN__INT_DEPARK_R2",
+    "SIMPLICITY_1__INT_DEPARK_R2",
+    "ICON__INT_DEPARK_R2",
+    "CBD_BARAT_1__INT_DEPARK_R2",
+    "AEON_MALL_1__INT_DEPARK_R2",
+    "CBD_TIMUR_1__INT_DEPARK_R2",
+    "ICE_1__INT_DEPARK_R2",
+    "GREENWICH_PARK__INT_DEPARK_R2",
+    "DE_MAJA__INT_DEPARK_R2",
+    "BCA__INT_DEPARK_R2",
+    "FBL_1__INT_DEPARK_R2",
+    "THE_BREEZE__INT_DEPARK_R2",
+    "THE_BREEZE__INT_BREEZE_INT",
+    "SML_PLAZA__INT_BREEZE_INT",
+    "GOP_1__INT_BREEZE_INT",
+    "CBD_TIMUR_2__INT_BREEZE_INT",
+    "AEON_MALL_2__INT_BREEZE_INT",
+    "SIMPLICITY_1__INT_BREEZE_INT",
+    "SIMPLICITY_1__SEKT13_INT",
+    "ICON__SEKT13_INT",
+    "PASAR_MODERN__SEKT13_INT"
+  ],
+  "cost_tuple": [
+    102,
+    2
+  ]
+}

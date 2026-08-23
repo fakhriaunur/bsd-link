@@ -69,7 +69,25 @@ def publish():
     }
     with open(DIST_DIR / "index.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
-    print(f"publish ok: {len(list(DIST_DIR.glob('*')))} files -> {DIST_DIR}")
+    # fix Pages 404: root needs index.html + .nojekyll
+    dist_root = ROOT / "dist"
+    # preserve scenarios if exists for landing
+    scenarios_exist = (dist_root / "scenarios").exists() and any((dist_root / "scenarios").glob("*"))
+    html = f"""<!doctype html><meta charset=utf-8><title>BSD Link</title>
+<h1>BSD Link</h1>
+<p>Dataset + Scenarios</p>
+<ul>
+<li><a href="api/index.json">api/index.json</a> - {len(list(DIST_DIR.glob('*.json')))} files (routes, stops, halte_index)</li>
+<li><a href="api/routes.geojson">api/routes.geojson</a> - 41 Points + 9 LineStrings</li>
+{"<li><a href=\"scenarios/index.json\">scenarios/index.json</a> - scenarios results</li>" if scenarios_exist else ""}
+</ul>
+<p>API: <code>/api/routes.json</code> <code>/api/stops.json</code> <code>/api/halte_index.json</code></p>
+{"<p>Scenarios: <code>/scenarios/intermoda-*.json</code></p>" if scenarios_exist else ""}
+<p>Generated {meta.get("generated_at")}</p>
+"""
+    (dist_root / "index.html").write_text(html, encoding="utf-8")
+    (dist_root / ".nojekyll").touch(exist_ok=True)
+    print(f"publish ok: {len(list(DIST_DIR.glob('*')))} files -> {DIST_DIR}, index.html + .nojekyll at {dist_root}")
 
 def main():
     ap = argparse.ArgumentParser(description="Publish BSD Link API")

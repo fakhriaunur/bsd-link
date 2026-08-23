@@ -1,0 +1,8 @@
+name: intermoda-aeon-breeze-icon-least-transfer
+origin: PASAR_MODERN
+destinations: [ICON, AEON_MALL_2, THE_BREEZE]
+ordered: false
+return_to_origin: true
+goal: least-transfer
+walk_edges: []
+notes: least-transfer prioritizes fewest route switches, tie-break least-time. Expected BLUE+YELLOW via THE_BREEZE.

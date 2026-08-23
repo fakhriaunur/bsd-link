@@ -1,0 +1,88 @@
+{
+  "scenario": "intermoda-aeon-breeze-icon-least-walk",
+  "origin": "PASAR_MODERN",
+  "destinations_ordered": [
+    "THE_BREEZE",
+    "AEON_MALL_2",
+    "ICON"
+  ],
+  "return_to_origin": true,
+  "goal": "least-walk",
+  "total_time": 44,
+  "total_transfers": 0,
+  "legs": [
+    {
+      "from": "PASAR_MODERN",
+      "to": "THE_BREEZE",
+      "time": 12,
+      "transfers": 0,
+      "path": [
+        "PASAR_MODERN__INT_SEKT13",
+        "SIMPLICITY_1__INT_SEKT13",
+        "ICON__INT_SEKT13",
+        "CBD_TIMUR_1__INT_SEKT13",
+        "NAVAPARK_1__INT_SEKT13",
+        "THE_BREEZE__INT_SEKT13"
+      ]
+    },
+    {
+      "from": "THE_BREEZE",
+      "to": "AEON_MALL_2",
+      "time": 8,
+      "transfers": 0,
+      "path": [
+        "THE_BREEZE__INT_SEKT13",
+        "AEON_MALL_2__BREEZE_AEON_ICE"
+      ]
+    },
+    {
+      "from": "AEON_MALL_2",
+      "to": "ICON",
+      "time": 22,
+      "transfers": 0,
+      "path": [
+        "AEON_MALL_2__BREEZE_AEON_ICE",
+        "THE_BREEZE__SEKT13_INT",
+        "NAVAPARK_1__SEKT13_INT",
+        "CBD_TIMUR_2__SEKT13_INT",
+        "AEON_MALL_1__SEKT13_INT",
+        "AEON_MALL_2__SEKT13_INT",
+        "CBD_BARAT_1__SEKT13_INT",
+        "SIMPLICITY_1__SEKT13_INT",
+        "ICON__SEKT13_INT"
+      ]
+    },
+    {
+      "from": "ICON",
+      "to": "PASAR_MODERN",
+      "time": 2,
+      "transfers": 0,
+      "path": [
+        "ICON__SEKT13_INT",
+        "PASAR_MODERN__SEKT13_INT"
+      ]
+    }
+  ],
+  "full_path": [
+    "PASAR_MODERN__INT_SEKT13",
+    "SIMPLICITY_1__INT_SEKT13",
+    "ICON__INT_SEKT13",
+    "CBD_TIMUR_1__INT_SEKT13",
+    "NAVAPARK_1__INT_SEKT13",
+    "THE_BREEZE__INT_SEKT13",
+    "AEON_MALL_2__BREEZE_AEON_ICE",
+    "THE_BREEZE__SEKT13_INT",
+    "NAVAPARK_1__SEKT13_INT",
+    "CBD_TIMUR_2__SEKT13_INT",
+    "AEON_MALL_1__SEKT13_INT",
+    "AEON_MALL_2__SEKT13_INT",
+    "CBD_BARAT_1__SEKT13_INT",
+    "SIMPLICITY_1__SEKT13_INT",
+    "ICON__SEKT13_INT",
+    "PASAR_MODERN__SEKT13_INT"
+  ],
+  "cost_tuple": [
+    44,
+    0
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "BSD Link Scenarios",
+  "generated_at": "2026-08-23T03:50:56.102141Z",
+  "counts": {
+    "scenarios": 3
+  },
+  "scenarios": [
+    "intermoda-aeon-breeze-icon-least-time",
+    "intermoda-aeon-breeze-icon-least-transfer",
+    "intermoda-aeon-breeze-icon-least-walk"
+  ],
+  "endpoints": [
+    "index.json",
+    "intermoda-aeon-breeze-icon-least-time.json",
+    "intermoda-aeon-breeze-icon-least-time.yaml",
+    "intermoda-aeon-breeze-icon-least-transfer.json",
+    "intermoda-aeon-breeze-icon-least-transfer.yaml",
+    "intermoda-aeon-breeze-icon-least-walk.json",
+    "intermoda-aeon-breeze-icon-least-walk.yaml"
+  ]
+}

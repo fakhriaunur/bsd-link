@@ -1,0 +1,15 @@
+name: intermoda-aeon-breeze-icon-least-walk
+origin: PASAR_MODERN
+destinations: [ICON, AEON_MALL_2, THE_BREEZE]
+ordered: false
+return_to_origin: true
+goal: least-walk
+walk_edges:
+  - from: AEON_MALL_2
+    to: THE_BREEZE
+    minutes: 8
+    note: CBD walk shortcut, beats waiting for transfer
+  - from: THE_BREEZE
+    to: AEON_MALL_2
+    minutes: 8
+    note: bidirectional walk
