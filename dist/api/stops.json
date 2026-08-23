@@ -5,8 +5,8 @@
     "stop_name_norm": "PASAR MODERN",
     "stop_type": "HUB",
     "transfer_type": "BUSWAY_TRANSJAKARTA_JRC_MRT_FATMAWATI|JRC_TRANS_JABODETABEK|JRC_MRT_LEBAK_BULUS|JAC_SOETTA",
-    "lat": -6.3215,
-    "lng": 106.6462,
+    "lat": -6.30453,
+    "lng": 106.68482,
     "notes": "HUB Stasiun Cisauk"
   },
   {
@@ -15,8 +15,8 @@
     "stop_name_norm": "STASIUN CISAUK",
     "stop_type": "HUB",
     "transfer_type": "NONE",
-    "lat": -6.3218,
-    "lng": 106.6465,
+    "lat": -6.3048,
+    "lng": 106.685,
     "notes": "transfer halte"
   },
   {
@@ -25,8 +25,8 @@
     "stop_name_norm": "ICE 1",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
-    "lat": -6.2985,
-    "lng": 106.6365,
+    "lat": -6.300258,
+    "lng": 106.636604,
     "notes": "Indonesia Convention Exhibition"
   },
   {
@@ -35,8 +35,8 @@
     "stop_name_norm": "ICE 2",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
-    "lat": -6.2978,
-    "lng": 106.6372,
+    "lat": -6.3004,
+    "lng": 106.637,
     "notes": ""
   },
   {
@@ -55,8 +55,8 @@
     "stop_name_norm": "THE BREEZE",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
-    "lat": -6.3035,
-    "lng": 106.6525,
+    "lat": -6.30222,
+    "lng": 106.65445,
     "notes": "Breeze BSD"
   },
   {
@@ -85,8 +85,8 @@
     "stop_name_norm": "AEON MALL 1",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
-    "lat": -6.3025,
-    "lng": 106.6505,
+    "lat": -6.3045,
+    "lng": 106.643,
     "notes": ""
   },
   {
@@ -95,8 +95,8 @@
     "stop_name_norm": "AEON MALL 2",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
-    "lat": -6.3018,
-    "lng": 106.6512,
+    "lat": -6.3038,
+    "lng": 106.644,
     "notes": ""
   },
   {
@@ -105,8 +105,8 @@
     "stop_name_norm": "CBD BARAT 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
-    "lat": -6.301,
-    "lng": 106.6495,
+    "lat": -6.3015,
+    "lng": 106.649,
     "notes": ""
   },
   {
@@ -115,7 +115,7 @@
     "stop_name_norm": "CBD BARAT 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
-    "lat": -6.3005,
+    "lat": -6.301,
     "lng": 106.65,
     "notes": ""
   },
@@ -136,7 +136,7 @@
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
     "lat": -6.3015,
-    "lng": 106.6535,
+    "lng": 106.6538,
     "notes": ""
   },
   {
@@ -145,7 +145,7 @@
     "stop_name_norm": "NAVAPARK 1",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
-    "lat": -6.3045,
+    "lat": -6.304,
     "lng": 106.6515,
     "notes": ""
   },
@@ -225,8 +225,8 @@
     "stop_name_norm": "SIMPLICITY 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
-    "lat": -6.315,
-    "lng": 106.647,
+    "lat": -6.31,
+    "lng": 106.682,
     "notes": ""
   },
   {
@@ -235,8 +235,8 @@
     "stop_name_norm": "SIMPLICITY 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
-    "lat": -6.3145,
-    "lng": 106.6472,
+    "lat": -6.3095,
+    "lng": 106.6822,
     "notes": ""
   },
   {
@@ -245,8 +245,8 @@
     "stop_name_norm": "ELDORADO 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
-    "lat": -6.31,
-    "lng": 106.6455,
+    "lat": -6.308,
+    "lng": 106.64,
     "notes": ""
   },
   {
@@ -255,8 +255,8 @@
     "stop_name_norm": "ELDORADO 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
-    "lat": -6.3095,
-    "lng": 106.646,
+    "lat": -6.3075,
+    "lng": 106.641,
     "notes": ""
   },
   {
@@ -265,8 +265,8 @@
     "stop_name_norm": "Q BIG",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
-    "lat": -6.2875,
-    "lng": 106.6455,
+    "lat": -6.286535,
+    "lng": 106.636791,
     "notes": "QBig BSD City"
   },
   {

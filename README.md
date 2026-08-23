@@ -42,9 +42,9 @@ python scripts/build.py --check      # fail if JSON stale
 
 Vanya Park: orange line inferred from overview image, `is_inferred=true`, timetable not available - needs high-res singular image. See `docs/vanya_observation.md`.
 
-## Geo (now available)
+## Geo (now available, web cross-checked 2026-08-23)
 
-- `stops.csv` now has `lat,lng` 41 BSD City coords (-6.321..-6.285,106.636..106.661)
+- `stops.csv` now has `lat,lng` 41 BSD City coords, 5 majors web-verified: PASAR_MODERN -6.30453,106.68482 (maptons), ICE -6.300258,106.636604 (wiki), THE_BREEZE -6.30222,106.65445 (exploresunda), AEON -6.3045,106.643 (getamap), Q_BIG -6.286535,106.636791 - see `docs/geo.md`
 - `scripts/build.py` generates `data/geo/routes.geojson` 41 Points + 9 LineStrings (per `route_stops` order)
 - Publish includes `dist/api/routes.geojson` - view via `python -m http.server --directory dist 8000` then `http://localhost:8000/api/routes.geojson` or drag to geojson.io
 - Schema `schema.md:3` updated, `docs/publish.md` covers `dist/api`
