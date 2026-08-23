@@ -12,7 +12,9 @@ Invariants enforced:
   - route_stops.seq continuous 1..N per route
   - stop_times arrival HH:MM monotone per trip
 """
+
 from __future__ import annotations
+
 import argparse
 import csv
 import json
@@ -28,8 +30,10 @@ GEO_DIR = ROOT / "data" / "geo"
 
 TIME_RE = re.compile(r"^\d{1,2}:\d{2}$")
 
+
 class ValidationError(Exception):
     pass
+
 
 def parse_bool(v: str) -> bool:
     if v is None:
@@ -41,14 +45,16 @@ def parse_bool(v: str) -> bool:
         return False
     raise ValidationError(f"invalid bool '{v}'")
 
+
 def time_to_min(t: str) -> int:
     if not TIME_RE.match(t):
         raise ValidationError(f"invalid time format '{t}' expected HH:MM")
-    h, m = t.split(":")
-    h, m = int(h), int(m)
+    h_str, m_str = t.split(":")
+    h, m = int(h_str), int(m_str)
     if not (0 <= h <= 23 and 0 <= m <= 59):
         raise ValidationError(f"invalid time value '{t}'")
     return h * 60 + m
+
 
 def load_csv(path: Path):
     if not path.exists():
@@ -65,6 +71,7 @@ def load_csv(path: Path):
                     r[k] = r[k].strip()
         return reader.fieldnames, rows
 
+
 def validate_unique(rows, key, path_name):
     seen = set()
     for i, r in enumerate(rows, start=2):
@@ -75,6 +82,7 @@ def validate_unique(rows, key, path_name):
             raise ValidationError(f"{path_name}:{i} duplicate {key}='{k}'")
         seen.add(k)
     return seen
+
 
 def main(check: bool = False):
     # Check stale
@@ -122,7 +130,7 @@ def main(check: bool = False):
         # seq int
         try:
             int(rs["seq"])
-        except:
+        except ValueError:
             raise ValidationError(f"route_stops.csv:{i} invalid seq '{rs['seq']}'")
         # is_inferred bool
         parse_bool(rs.get("is_inferred", "false"))
@@ -133,9 +141,11 @@ def main(check: bool = False):
         by_route[rs["route_id"]].append(int(rs["seq"]))
     for rid, seqs in by_route.items():
         seqs_sorted = sorted(seqs)
-        expected = list(range(1, len(seqs_sorted)+1))
+        expected = list(range(1, len(seqs_sorted) + 1))
         if seqs_sorted != expected:
-            raise ValidationError(f"route_stops seq gap for route {rid}: got {seqs_sorted} expected {expected}")
+            raise ValidationError(
+                f"route_stops seq gap for route {rid}: got {seqs_sorted} expected {expected}"
+            )
 
     # Validate trips FK
     for i, t in enumerate(trips, start=2):
@@ -168,11 +178,13 @@ def main(check: bool = False):
         # validate membership: stop must be in route's stops
         rid = trip_to_route[st["trip_id"]]
         if st["stop_id"] not in route_to_stops.get(rid, set()):
-            raise ValidationError(f"stop_times.csv:{i} stop '{st['stop_id']}' not in route_stops for route '{rid}' (trip {st['trip_id']})")
+            raise ValidationError(
+                f"stop_times.csv:{i} stop '{st['stop_id']}' not in route_stops for route '{rid}' (trip {st['trip_id']})"
+            )
         time_to_min(st["arrival_time"])
         try:
             int(st["stop_seq"])
-        except:
+        except ValueError:
             raise ValidationError(f"stop_times.csv:{i} invalid stop_seq '{st['stop_seq']}'")
 
     # Validate monotone per trip
@@ -188,7 +200,7 @@ def main(check: bool = False):
                 raise ValidationError(f"stop_times monotone violation trip {tid}: times {times}")
 
     # Derive halte_index: stop_id -> [route_id]
-    halte_index = defaultdict(list)
+    halte_index: dict = defaultdict(list)
     for rs in route_stops:
         if rs["route_id"] not in halte_index[rs["stop_id"]]:
             halte_index[rs["stop_id"]].append(rs["route_id"])
@@ -205,18 +217,20 @@ def main(check: bool = False):
     def convert_routes(rows):
         out = []
         for r in rows:
-            out.append({
-                "route_id": r["route_id"],
-                "route_name": r["route_name"],
-                "route_color_hex": r["route_color_hex"],
-                "route_color_name": r["route_color_name"],
-                "origin": r["origin"],
-                "destination": r["destination"],
-                "direction": r["direction"],
-                "service_note": r["service_note"],
-                "source_image": r["source_image"],
-                "is_inferred": parse_bool(r.get("is_inferred", "false")),
-            })
+            out.append(
+                {
+                    "route_id": r["route_id"],
+                    "route_name": r["route_name"],
+                    "route_color_hex": r["route_color_hex"],
+                    "route_color_name": r["route_color_name"],
+                    "origin": r["origin"],
+                    "destination": r["destination"],
+                    "direction": r["direction"],
+                    "service_note": r["service_note"],
+                    "source_image": r["source_image"],
+                    "is_inferred": parse_bool(r.get("is_inferred", "false")),
+                }
+            )
         return out
 
     def convert_stops(rows):
@@ -241,55 +255,63 @@ def main(check: bool = False):
                         raise ValidationError(f"stops.csv invalid lng {lng_raw} for {r['stop_id']}")
                 except ValueError:
                     raise ValidationError(f"stops.csv invalid lng {lng_raw}")
-            out.append({
-                "stop_id": r["stop_id"],
-                "stop_name_raw": r["stop_name_raw"],
-                "stop_name_norm": r["stop_name_norm"],
-                "stop_type": r["stop_type"],
-                "transfer_type": r["transfer_type"],
-                "lat": lat,
-                "lng": lng,
-                "notes": r["notes"],
-            })
+            out.append(
+                {
+                    "stop_id": r["stop_id"],
+                    "stop_name_raw": r["stop_name_raw"],
+                    "stop_name_norm": r["stop_name_norm"],
+                    "stop_type": r["stop_type"],
+                    "transfer_type": r["transfer_type"],
+                    "lat": lat,
+                    "lng": lng,
+                    "notes": r["notes"],
+                }
+            )
         return out
 
     def convert_route_stops(rows):
         out = []
         for r in rows:
-            out.append({
-                "route_id": r["route_id"],
-                "stop_id": r["stop_id"],
-                "seq": int(r["seq"]),
-                "is_inferred": parse_bool(r.get("is_inferred", "false")),
-                "notes": r["notes"],
-            })
+            out.append(
+                {
+                    "route_id": r["route_id"],
+                    "stop_id": r["stop_id"],
+                    "seq": int(r["seq"]),
+                    "is_inferred": parse_bool(r.get("is_inferred", "false")),
+                    "notes": r["notes"],
+                }
+            )
         out.sort(key=lambda x: (x["route_id"], x["seq"]))
         return out
 
     def convert_trips(rows):
         out = []
         for r in rows:
-            out.append({
-                "trip_id": r["trip_id"],
-                "route_id": r["route_id"],
-                "bus_no": r["bus_no"],
-                "departure_time": r["departure_time"],
-                "service_day": r["service_day"],
-                "highlight": parse_bool(r.get("highlight", "false")),
-                "notes": r["notes"],
-            })
+            out.append(
+                {
+                    "trip_id": r["trip_id"],
+                    "route_id": r["route_id"],
+                    "bus_no": r["bus_no"],
+                    "departure_time": r["departure_time"],
+                    "service_day": r["service_day"],
+                    "highlight": parse_bool(r.get("highlight", "false")),
+                    "notes": r["notes"],
+                }
+            )
         return out
 
     def convert_stop_times(rows):
         out = []
         for r in rows:
-            out.append({
-                "trip_id": r["trip_id"],
-                "stop_id": r["stop_id"],
-                "arrival_time": r["arrival_time"],
-                "stop_seq": int(r["stop_seq"]),
-                "notes": r["notes"],
-            })
+            out.append(
+                {
+                    "trip_id": r["trip_id"],
+                    "stop_id": r["stop_id"],
+                    "arrival_time": r["arrival_time"],
+                    "stop_seq": int(r["stop_seq"]),
+                    "notes": r["notes"],
+                }
+            )
         out.sort(key=lambda x: (x["trip_id"], x["stop_seq"]))
         return out
 
@@ -313,8 +335,10 @@ def main(check: bool = False):
         json.dump(dict(halte_index), f, indent=2, ensure_ascii=False)
 
     # build_meta
-    inferred_routes = sum(1 for r in routes if parse_bool(r.get("is_inferred","false")))
-    inferred_route_stops = sum(1 for rs in route_stops if parse_bool(rs.get("is_inferred","false")))
+    inferred_routes = sum(1 for r in routes if parse_bool(r.get("is_inferred", "false")))
+    inferred_route_stops = sum(
+        1 for rs in route_stops if parse_bool(rs.get("is_inferred", "false"))
+    )
     meta = {
         "counts": {
             "routes": len(routes),
@@ -325,23 +349,36 @@ def main(check: bool = False):
             "inferred_routes": inferred_routes,
             "inferred_route_stops": inferred_route_stops,
         },
-        "routes_inferred": [r["route_id"] for r in routes if parse_bool(r.get("is_inferred","false"))],
+        "routes_inferred": [
+            r["route_id"] for r in routes if parse_bool(r.get("is_inferred", "false"))
+        ],
         "generated_at": __import__("datetime").datetime.utcnow().isoformat() + "Z",
     }
     with (JSON_DIR / "build_meta.json").open("w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
 
     # geo generation - points for stops, lines for routes where coords available
-    stop_coord = {s["stop_id"]: (s["lng"], s["lat"]) for s in stops_json if s["lat"] is not None and s["lng"] is not None}
+    stop_coord = {
+        s["stop_id"]: (s["lng"], s["lat"])
+        for s in stops_json
+        if s["lat"] is not None and s["lng"] is not None
+    }
     features = []
     # stop points
     for s in stops_json:
         if s["lat"] is not None and s["lng"] is not None:
-            features.append({
-                "type": "Feature",
-                "geometry": {"type": "Point", "coordinates": [s["lng"], s["lat"]]},
-                "properties": {"stop_id": s["stop_id"], "name": s["stop_name_raw"], "type": s["stop_type"], "inferred": False}
-            })
+            features.append(
+                {
+                    "type": "Feature",
+                    "geometry": {"type": "Point", "coordinates": [s["lng"], s["lat"]]},
+                    "properties": {
+                        "stop_id": s["stop_id"],
+                        "name": s["stop_name_raw"],
+                        "type": s["stop_type"],
+                        "inferred": False,
+                    },
+                }
+            )
     # route lines
     by_route_rs = defaultdict(list)
     for rs in route_stops_json:
@@ -358,27 +395,32 @@ def main(check: bool = False):
             else:
                 missing += 1
         if len(coords) >= 2:
-            features.append({
-                "type": "Feature",
-                "geometry": {"type": "LineString", "coordinates": coords},
-                "properties": {
-                    "route_id": rid,
-                    "route_name": route_meta.get(rid, {}).get("route_name",""),
-                    "color": route_meta.get(rid, {}).get("route_color_hex",""),
-                    "is_inferred": route_meta.get(rid, {}).get("is_inferred", False),
-                    "missing_coords": missing
+            features.append(
+                {
+                    "type": "Feature",
+                    "geometry": {"type": "LineString", "coordinates": coords},
+                    "properties": {
+                        "route_id": rid,
+                        "route_name": route_meta.get(rid, {}).get("route_name", ""),
+                        "color": route_meta.get(rid, {}).get("route_color_hex", ""),
+                        "is_inferred": route_meta.get(rid, {}).get("is_inferred", False),
+                        "missing_coords": missing,
+                    },
                 }
-            })
+            )
     geo = {
         "type": "FeatureCollection",
         "features": features,
-        "note": "generated from stops.csv lat/lng + route_stops order"
+        "note": "generated from stops.csv lat/lng + route_stops order",
     }
     with (GEO_DIR / "routes.geojson").open("w", encoding="utf-8") as f:
         json.dump(geo, f, indent=2, ensure_ascii=False)
 
-    print(f"build ok: routes={len(routes)} stops={len(stops)} route_stops={len(route_stops)} trips={len(trips)} stop_times={len(stop_times)} inferred_routes={inferred_routes}")
+    print(
+        f"build ok: routes={len(routes)} stops={len(stops)} route_stops={len(route_stops)} trips={len(trips)} stop_times={len(stop_times)} inferred_routes={inferred_routes}"
+    )
     print(f"halte_index stops={len(halte_index)}")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

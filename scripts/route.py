@@ -9,18 +9,22 @@ Edge weights: time (minutes), transfers (0 or 1). Dijkstra uses tuple cost for l
 DDD: Routing bounded context, Scenario aggregate owns origin/destinations/goal.
 APOSD: deep module hides graph expansion, exposes find_best_route(scenario, data).
 """
+
 from __future__ import annotations
-import itertools
+
 import heapq
+import itertools
 from collections import defaultdict
-from typing import Dict, List, Tuple, Set
+from typing import Dict, List, Set, Tuple
 
 Node = str
 Edge = Tuple[Node, int, int, str]  # neighbor, time, transfers, label
 
+
 def time_to_min(t: str) -> int:
     h, m = map(int, t.split(":"))
-    return h*60+m
+    return h * 60 + m
+
 
 def build_travel_times(route_stops, stop_times):
     """
@@ -54,20 +58,23 @@ def build_travel_times(route_stops, stop_times):
         sts_sorted = sorted(sts, key=lambda x: x["stop_seq"])
         for a, b in zip(sts_sorted, sts_sorted[1:]):
             # find routes where a and b are consecutive
-            for rid in set(r["route_id"] for r in route_stops if r["stop_id"] in (a["stop_id"], b["stop_id"])):
+            for rid in set(
+                r["route_id"] for r in route_stops if r["stop_id"] in (a["stop_id"], b["stop_id"])
+            ):
                 if (rid, a["stop_id"], b["stop_id"]) in route_pairs:
                     delta = time_to_min(b["arrival_time"]) - time_to_min(a["arrival_time"])
-                    if delta >=0:
+                    if delta >= 0:
                         deltas[(rid, a["stop_id"], b["stop_id"])].append(delta)
     # avg
     avg = {}
     for k, lst in deltas.items():
-        avg[k] = sum(lst)//len(lst) if lst else 2
+        avg[k] = sum(lst) // len(lst) if lst else 2
     # fallback 2min for pairs with no data (e.g., inferred)
     for rp in route_pairs:
         if rp not in avg:
             avg[rp] = 2
     return avg
+
 
 def compute_headway_wait(trips):
     """
@@ -83,11 +90,12 @@ def compute_headway_wait(trips):
         if len(times) < 2:
             waits[rid] = 15
             continue
-        diffs = [b-a for a,b in zip(times, times[1:]) if b>a]
+        diffs = [b - a for a, b in zip(times, times[1:]) if b > a]
         # filter negative wrap (next day not needed)
-        avg_headway = sum(diffs)//len(diffs) if diffs else 30
-        waits[rid] = max(5, avg_headway//2)
+        avg_headway = sum(diffs) // len(diffs) if diffs else 30
+        waits[rid] = max(5, avg_headway // 2)
     return waits
+
 
 def build_expanded_graph(route_stops, stop_times, trips, walk_edges=None):
     """
@@ -126,11 +134,11 @@ def build_expanded_graph(route_stops, stop_times, trips, walk_edges=None):
         if len(nids) < 2:
             continue
         for u in nids:
-            _, ru = u.rsplit("__",1)
+            _, ru = u.rsplit("__", 1)
             for v in nids:
                 if u == v:
                     continue
-                _, rv = v.rsplit("__",1)
+                _, rv = v.rsplit("__", 1)
                 # wait cost = avg wait of target route
                 w = waits.get(rv, 15)
                 adj[u].append((v, w, 1, f"transfer:{ru}->{rv}"))
@@ -149,6 +157,7 @@ def build_expanded_graph(route_stops, stop_times, trips, walk_edges=None):
                 # bidirectional if not already defined both ways via two entries? Add reverse if undirected.
         # also reverse if walk is considered bidirectional, caller should provide both directions entries
     return adj, waits, travel
+
 
 def dijkstra(adj, start_nodes, goal_stop, goal_mode="least-time"):
     """
@@ -170,13 +179,11 @@ def dijkstra(adj, start_nodes, goal_stop, goal_mode="least-time"):
     while pq:
         if goal_mode == "least-transfer":
             transfers, time, node, path, tr, ti = heapq.heappop(pq)
-            primary, secondary = transfers, time
         else:
             time, transfers, node, path, tr, ti = heapq.heappop(pq)
-            primary, secondary = time, transfers
 
         # goal check: node stop part matches
-        stop_part = node.rsplit("__",1)[0]
+        stop_part = node.rsplit("__", 1)[0]
         if stop_part == goal_stop:
             return ti, tr, path
 
@@ -194,10 +201,11 @@ def dijkstra(adj, start_nodes, goal_stop, goal_mode="least-time"):
                 pass
             best[nbr] = (ntr, nti)
             if goal_mode == "least-transfer":
-                heapq.heappush(pq, (ntr, nti, nbr, path+[nbr], ntr, nti))
+                heapq.heappush(pq, (ntr, nti, nbr, path + [nbr], ntr, nti))
             else:
-                heapq.heappush(pq, (nti, ntr, nbr, path+[nbr], ntr, nti))
+                heapq.heappush(pq, (nti, ntr, nbr, path + [nbr], ntr, nti))
     return None
+
 
 def solve_scenario(scenario, route_stops, stop_times, trips):
     """
@@ -215,7 +223,8 @@ def solve_scenario(scenario, route_stops, stop_times, trips):
 
     # helper to get start nodes for a stop
     def nodes_at(stop):
-        return [n for n in adj.keys() if n.startswith(stop+"__")]
+        return [n for n in adj.keys() if n.startswith(stop + "__")]
+
     # helper shortest between stops
     def shortest(a_stop, b_stop):
         starts = nodes_at(a_stop)
@@ -240,23 +249,23 @@ def solve_scenario(scenario, route_stops, stop_times, trips):
         full_path = []
         # chain start node across legs to count inter-leg transfers
         chain_start_nodes = None
-        for a,b in zip(seq, seq[1:]):
+        for a, b in zip(seq, seq[1:]):
             # for first leg, start from all nodes at origin; for subsequent, start from previous arrival node
             if chain_start_nodes is None:
                 starts = nodes_at(a)
             else:
                 starts = chain_start_nodes
             if not starts:
-                feasible=False
+                feasible = False
                 break
             r = dijkstra(adj, starts, b, goal_mode=goal)
             if r is None:
-                feasible=False
+                feasible = False
                 break
-            ti,tr,path = r
+            ti, tr, path = r
             total_time += ti
             total_transfers += tr
-            legs.append({"from":a,"to":b,"time":ti,"transfers":tr,"path":path})
+            legs.append({"from": a, "to": b, "time": ti, "transfers": tr, "path": path})
             # accumulate full_path with dedup (copy to avoid aliasing leg path)
             if not full_path:
                 full_path = list(path)
@@ -267,7 +276,11 @@ def solve_scenario(scenario, route_stops, stop_times, trips):
         if not feasible:
             continue
         # choose best by goal
-        cost = (total_transfers, total_time) if goal=="least-transfer" else (total_time, total_transfers)
+        cost = (
+            (total_transfers, total_time)
+            if goal == "least-transfer"
+            else (total_time, total_transfers)
+        )
         if best is None or cost < best:
             best = cost
             best_perm = perm
@@ -275,16 +288,19 @@ def solve_scenario(scenario, route_stops, stop_times, trips):
             best_full = full_path
 
     if best is None:
-        return {"error": "no feasible route", "scenario": scenario["name"] if "name" in scenario else "unknown"}
+        return {
+            "error": "no feasible route",
+            "scenario": scenario["name"] if "name" in scenario else "unknown",
+        }
 
     return {
-        "scenario": scenario.get("name","unknown"),
+        "scenario": scenario.get("name", "unknown"),
         "origin": origin,
         "destinations_ordered": list(best_perm),
         "return_to_origin": ret,
         "goal": goal,
-        "total_time": best[1] if goal=="least-transfer" else best[0],
-        "total_transfers": best[0] if goal=="least-transfer" else best[1],
+        "total_time": best[1] if goal == "least-transfer" else best[0],
+        "total_transfers": best[0] if goal == "least-transfer" else best[1],
         "legs": best_legs,
         "full_path": best_full,
         "cost_tuple": best,
