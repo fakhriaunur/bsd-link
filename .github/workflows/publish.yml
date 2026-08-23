@@ -27,10 +27,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - run: pip install pytest pyyaml
       - run: python scripts/build.py
       - run: python scripts/build.py --check
       - run: python -m pytest tests/test_route.py -q
       - run: python scripts/publish.py
+      - run: python scripts/publish.py --check
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
