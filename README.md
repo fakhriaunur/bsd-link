@@ -42,6 +42,13 @@ python scripts/build.py --check      # fail if JSON stale
 
 Vanya Park: orange line inferred from overview image, `is_inferred=true`, timetable not available - needs high-res singular image. See `docs/vanya_observation.md`.
 
+## Geo (now available)
+
+- `stops.csv` now has `lat,lng` 41 BSD City coords (-6.321..-6.285,106.636..106.661)
+- `scripts/build.py` generates `data/geo/routes.geojson` 41 Points + 9 LineStrings (per `route_stops` order)
+- Publish includes `dist/api/routes.geojson` - view via `python -m http.server --directory dist 8000` then `http://localhost:8000/api/routes.geojson` or drag to geojson.io
+- Schema `schema.md:3` updated, `docs/publish.md` covers `dist/api`
+
 ## Directory
 
 ```
@@ -68,7 +75,13 @@ docs/vanya_observation.md
 
 ## Scenarios
 
-- `scenarios/intermoda-aeon-breeze-icon-least-transfer.yaml` (least-transfer, chain counts inter-leg)
-- `scenarios/intermoda-aeon-breeze-icon-least-time.yaml`
-- `scenarios/intermoda-aeon-breeze-icon-least-walk.yaml` (walk AEON<->BREEZE 8min)
-- Engine `scripts/route.py` pure core, Dijkstra tuple cost, transfer wait headway/2, see `docs/timetable_notes.md` for residual ~15min time error.
+- `scenarios/intermoda-aeon-breeze-icon-least-transfer.yaml` (least-transfer 2 transfers, 95min, chain counts inter-leg)
+- `scenarios/intermoda-aeon-breeze-icon-least-time.yaml` (least-time)
+- `scenarios/intermoda-aeon-breeze-icon-least-walk.yaml` (walk AEON<->BREEZE 8min, 42min 0 transfers)
+- Engine `scripts/route.py` pure core, Dijkstra tuple cost, transfer wait headway/2, see `docs/b_full.md` B-full realistic deltas variance 3-4 (no uniform flag), `docs/timetable_notes.md` B-light spot check.
+
+## Publish (C2)
+
+- `python scripts/publish.py --dry-run` preview, `--check` stale, no args publish to `dist/api`
+- `dist/api/index.json` manifest + 9 files, GH Pages workflow `.github/workflows/publish.yml`
+- `python scripts/quality.py` per route delta stats (now all variance>0), `python -m pytest` 5 green
