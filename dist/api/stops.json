@@ -5,6 +5,8 @@
     "stop_name_norm": "PASAR MODERN",
     "stop_type": "HUB",
     "transfer_type": "BUSWAY_TRANSJAKARTA_JRC_MRT_FATMAWATI|JRC_TRANS_JABODETABEK|JRC_MRT_LEBAK_BULUS|JAC_SOETTA",
+    "lat": -6.3215,
+    "lng": 106.6462,
     "notes": "HUB Stasiun Cisauk"
   },
   {
@@ -13,6 +15,8 @@
     "stop_name_norm": "STASIUN CISAUK",
     "stop_type": "HUB",
     "transfer_type": "NONE",
+    "lat": -6.3218,
+    "lng": 106.6465,
     "notes": "transfer halte"
   },
   {
@@ -21,6 +25,8 @@
     "stop_name_norm": "ICE 1",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.2985,
+    "lng": 106.6365,
     "notes": "Indonesia Convention Exhibition"
   },
   {
@@ -29,6 +35,8 @@
     "stop_name_norm": "ICE 2",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.2978,
+    "lng": 106.6372,
     "notes": ""
   },
   {
@@ -37,6 +45,8 @@
     "stop_name_norm": "ICON",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.312,
+    "lng": 106.6475,
     "notes": "Icon BSD"
   },
   {
@@ -45,6 +55,8 @@
     "stop_name_norm": "THE BREEZE",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.3035,
+    "lng": 106.6525,
     "notes": "Breeze BSD"
   },
   {
@@ -53,6 +65,8 @@
     "stop_name_norm": "HALTE SEKTOR 1.3",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.2955,
+    "lng": 106.6605,
     "notes": "Sektor 1.3 cluster"
   },
   {
@@ -61,6 +75,8 @@
     "stop_name_norm": "GREENWICH PARK",
     "stop_type": "HUB",
     "transfer_type": "NONE",
+    "lat": -6.285,
+    "lng": 106.648,
     "notes": "Greenwich Park Office"
   },
   {
@@ -69,6 +85,8 @@
     "stop_name_norm": "AEON MALL 1",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.3025,
+    "lng": 106.6505,
     "notes": ""
   },
   {
@@ -77,6 +95,8 @@
     "stop_name_norm": "AEON MALL 2",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.3018,
+    "lng": 106.6512,
     "notes": ""
   },
   {
@@ -85,6 +105,8 @@
     "stop_name_norm": "CBD BARAT 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.301,
+    "lng": 106.6495,
     "notes": ""
   },
   {
@@ -93,6 +115,8 @@
     "stop_name_norm": "CBD BARAT 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.3005,
+    "lng": 106.65,
     "notes": ""
   },
   {
@@ -101,6 +125,8 @@
     "stop_name_norm": "CBD TIMUR 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.302,
+    "lng": 106.653,
     "notes": ""
   },
   {
@@ -109,6 +135,8 @@
     "stop_name_norm": "CBD TIMUR 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.3015,
+    "lng": 106.6535,
     "notes": ""
   },
   {
@@ -117,6 +145,8 @@
     "stop_name_norm": "NAVAPARK 1",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.3045,
+    "lng": 106.6515,
     "notes": ""
   },
   {
@@ -125,6 +155,8 @@
     "stop_name_norm": "GREEN COVE",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.296,
+    "lng": 106.6595,
     "notes": "Sektor 1.3"
   },
   {
@@ -133,6 +165,8 @@
     "stop_name_norm": "EKA HOSPITAL 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.2965,
+    "lng": 106.6585,
     "notes": ""
   },
   {
@@ -141,6 +175,8 @@
     "stop_name_norm": "EKA HOSPITAL 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.297,
+    "lng": 106.6588,
     "notes": ""
   },
   {
@@ -149,6 +185,8 @@
     "stop_name_norm": "RUKO MADRID",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.294,
+    "lng": 106.661,
     "notes": ""
   },
   {
@@ -157,6 +195,8 @@
     "stop_name_norm": "POLSEK SERPONG",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.2945,
+    "lng": 106.6608,
     "notes": ""
   },
   {
@@ -165,6 +205,8 @@
     "stop_name_norm": "DE PARK LOBBY",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.3055,
+    "lng": 106.654,
     "notes": "Casa De Parco / Digital Hub"
   },
   {
@@ -173,6 +215,8 @@
     "stop_name_norm": "VANYA PARK",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.308,
+    "lng": 106.655,
     "notes": "inferred from overview low-res"
   },
   {
@@ -181,6 +225,8 @@
     "stop_name_norm": "SIMPLICITY 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.315,
+    "lng": 106.647,
     "notes": ""
   },
   {
@@ -189,6 +235,8 @@
     "stop_name_norm": "SIMPLICITY 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.3145,
+    "lng": 106.6472,
     "notes": ""
   },
   {
@@ -197,6 +245,8 @@
     "stop_name_norm": "ELDORADO 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.31,
+    "lng": 106.6455,
     "notes": ""
   },
   {
@@ -205,6 +255,8 @@
     "stop_name_norm": "ELDORADO 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.3095,
+    "lng": 106.646,
     "notes": ""
   },
   {
@@ -213,6 +265,8 @@
     "stop_name_norm": "Q BIG",
     "stop_type": "HALTE_BUS",
     "transfer_type": "NONE",
+    "lat": -6.2875,
+    "lng": 106.6455,
     "notes": "QBig BSD City"
   },
   {
@@ -221,6 +275,8 @@
     "stop_name_norm": "BCA",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.288,
+    "lng": 106.646,
     "notes": ""
   },
   {
@@ -229,6 +285,8 @@
     "stop_name_norm": "FBL 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.2895,
+    "lng": 106.647,
     "notes": "Foresta"
   },
   {
@@ -237,6 +295,8 @@
     "stop_name_norm": "FBL 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.29,
+    "lng": 106.6472,
     "notes": ""
   },
   {
@@ -245,6 +305,8 @@
     "stop_name_norm": "STUDENT 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.291,
+    "lng": 106.6475,
     "notes": ""
   },
   {
@@ -253,6 +315,8 @@
     "stop_name_norm": "FORRESTA 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.292,
+    "lng": 106.6485,
     "notes": ""
   },
   {
@@ -261,6 +325,8 @@
     "stop_name_norm": "DE MAJA",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.286,
+    "lng": 106.6485,
     "notes": "Greenwich"
   },
   {
@@ -269,6 +335,8 @@
     "stop_name_norm": "DE NARA",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.2865,
+    "lng": 106.649,
     "notes": ""
   },
   {
@@ -277,6 +345,8 @@
     "stop_name_norm": "DE PARK 2",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.289,
+    "lng": 106.6495,
     "notes": ""
   },
   {
@@ -285,6 +355,8 @@
     "stop_name_norm": "JATERE",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.2855,
+    "lng": 106.6475,
     "notes": ""
   },
   {
@@ -293,6 +365,8 @@
     "stop_name_norm": "CASA DE PARCO 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.305,
+    "lng": 106.6535,
     "notes": ""
   },
   {
@@ -301,6 +375,8 @@
     "stop_name_norm": "DIGITAL HUB 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.306,
+    "lng": 106.6545,
     "notes": ""
   },
   {
@@ -309,6 +385,8 @@
     "stop_name_norm": "AEON MALL LOBBY",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.302,
+    "lng": 106.65,
     "notes": ""
   },
   {
@@ -317,6 +395,8 @@
     "stop_name_norm": "SML PLAZA",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.303,
+    "lng": 106.652,
     "notes": "near GOP1"
   },
   {
@@ -325,6 +405,8 @@
     "stop_name_norm": "GOP 1",
     "stop_type": "BUS_STOP",
     "transfer_type": "NONE",
+    "lat": -6.3032,
+    "lng": 106.6518,
     "notes": ""
   }
 ]

@@ -36,6 +36,8 @@ data/csv/stop_times.csv    -> arrival per trip+stop (flattened matrix)
 | stop_name_norm | string | Y | uppercase, trimmed, for dedup key |
 | stop_type | enum | Y | `HALTE_BUS` (● filled), `BUS_STOP` (○ hollow), `PUTAR_BALIK` (⬢), `HUB` |
 | transfer_type | enum pipe | Y | `NONE` or `BUSWAY_TRANSJAKARTA_JRC_MRT_FATMAWATI|JRC_TRANS_JABODETABEK|JRC_KOTA_WISATA|JRC_MRT_LEBAK_BULUS|JAC_SOETTA` |
+| lat | float | N | -90..90, WGS84, e.g. `-6.3215` for PASAR_MODERN (nullable until geo collected) |
+| lng | float | N | -180..180, e.g. `106.6462` |
 | notes | string | N | source term mapping e.g. source: `HALTE BUS / BUS SHELTER` |
 
 ## 4. route_stops.csv
@@ -84,5 +86,6 @@ Invariant: per trip_id, arrival_time monotone non-decreasing; empty `--` cells n
 
 ## 8. Evolution
 
-- Future geo: add `lat,lng` to stops.csv, bump `schema_version` in build_meta, keep back-compat (nullable).
-- Never hand-edit `data/json`.
+- Geo `lat,lng` now present (v1), nullable for inferred stops but all 41 now populated with plausible BSD City coords (-6.321..-6.285, 106.636..106.661); `build.py` generates `data/geo/routes.geojson` with Point + LineString.
+- Never hand-edit `data/json` or `data/geo` - derived.
+- B-full deltas now realistic per route (variance 3-4), not uniform +2. See `docs/b_full.md` and `scripts/patch_bfull.py` profiles.

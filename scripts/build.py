@@ -222,12 +222,33 @@ def main(check: bool = False):
     def convert_stops(rows):
         out = []
         for r in rows:
+            # lat/lng optional, empty -> None
+            lat_raw = r.get("lat", "").strip()
+            lng_raw = r.get("lng", "").strip()
+            lat = None
+            lng = None
+            if lat_raw:
+                try:
+                    lat = float(lat_raw)
+                    if not (-90 <= lat <= 90):
+                        raise ValidationError(f"stops.csv invalid lat {lat_raw} for {r['stop_id']}")
+                except ValueError:
+                    raise ValidationError(f"stops.csv invalid lat {lat_raw}")
+            if lng_raw:
+                try:
+                    lng = float(lng_raw)
+                    if not (-180 <= lng <= 180):
+                        raise ValidationError(f"stops.csv invalid lng {lng_raw} for {r['stop_id']}")
+                except ValueError:
+                    raise ValidationError(f"stops.csv invalid lng {lng_raw}")
             out.append({
                 "stop_id": r["stop_id"],
                 "stop_name_raw": r["stop_name_raw"],
                 "stop_name_norm": r["stop_name_norm"],
                 "stop_type": r["stop_type"],
                 "transfer_type": r["transfer_type"],
+                "lat": lat,
+                "lng": lng,
                 "notes": r["notes"],
             })
         return out
@@ -310,14 +331,51 @@ def main(check: bool = False):
     with (JSON_DIR / "build_meta.json").open("w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
 
-    # geo stub
-    geo_stub = {
+    # geo generation - points for stops, lines for routes where coords available
+    stop_coord = {s["stop_id"]: (s["lng"], s["lat"]) for s in stops_json if s["lat"] is not None and s["lng"] is not None}
+    features = []
+    # stop points
+    for s in stops_json:
+        if s["lat"] is not None and s["lng"] is not None:
+            features.append({
+                "type": "Feature",
+                "geometry": {"type": "Point", "coordinates": [s["lng"], s["lat"]]},
+                "properties": {"stop_id": s["stop_id"], "name": s["stop_name_raw"], "type": s["stop_type"], "inferred": False}
+            })
+    # route lines
+    by_route_rs = defaultdict(list)
+    for rs in route_stops_json:
+        by_route_rs[rs["route_id"]].append(rs)
+    route_meta = {r["route_id"]: r for r in routes_json}
+    for rid, rss in by_route_rs.items():
+        rss_sorted = sorted(rss, key=lambda x: x["seq"])
+        coords = []
+        missing = 0
+        for rs in rss_sorted:
+            coord = stop_coord.get(rs["stop_id"])
+            if coord and coord[0] is not None:
+                coords.append(list(coord))
+            else:
+                missing += 1
+        if len(coords) >= 2:
+            features.append({
+                "type": "Feature",
+                "geometry": {"type": "LineString", "coordinates": coords},
+                "properties": {
+                    "route_id": rid,
+                    "route_name": route_meta.get(rid, {}).get("route_name",""),
+                    "color": route_meta.get(rid, {}).get("route_color_hex",""),
+                    "is_inferred": route_meta.get(rid, {}).get("is_inferred", False),
+                    "missing_coords": missing
+                }
+            })
+    geo = {
         "type": "FeatureCollection",
-        "features": [],
-        "note": "geo skipped v1 - add lat/lng to stops.csv then populate"
+        "features": features,
+        "note": "generated from stops.csv lat/lng + route_stops order"
     }
     with (GEO_DIR / "routes.geojson").open("w", encoding="utf-8") as f:
-        json.dump(geo_stub, f, indent=2, ensure_ascii=False)
+        json.dump(geo, f, indent=2, ensure_ascii=False)
 
     print(f"build ok: routes={len(routes)} stops={len(stops)} route_stops={len(route_stops)} trips={len(trips)} stop_times={len(stop_times)} inferred_routes={inferred_routes}")
     print(f"halte_index stops={len(halte_index)}")

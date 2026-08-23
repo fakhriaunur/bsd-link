@@ -1,5 +1,1177 @@
 {
   "type": "FeatureCollection",
-  "features": [],
-  "note": "geo skipped v1 - add lat/lng to stops.csv then populate"
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6462,
+          -6.3215
+        ]
+      },
+      "properties": {
+        "stop_id": "PASAR_MODERN",
+        "name": "PASAR MODERN TERMINAL INTERMODA",
+        "type": "HUB",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6465,
+          -6.3218
+        ]
+      },
+      "properties": {
+        "stop_id": "STASIUN_CISAUK",
+        "name": "STASIUN KERETA API CISAUK",
+        "type": "HUB",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6365,
+          -6.2985
+        ]
+      },
+      "properties": {
+        "stop_id": "ICE_1",
+        "name": "ICE 1",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6372,
+          -6.2978
+        ]
+      },
+      "properties": {
+        "stop_id": "ICE_2",
+        "name": "ICE 2",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6475,
+          -6.312
+        ]
+      },
+      "properties": {
+        "stop_id": "ICON",
+        "name": "ICON",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6525,
+          -6.3035
+        ]
+      },
+      "properties": {
+        "stop_id": "THE_BREEZE",
+        "name": "THE BREEZE",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6605,
+          -6.2955
+        ]
+      },
+      "properties": {
+        "stop_id": "HALTE_SEKTOR_1_3",
+        "name": "HALTE SEKTOR 1.3",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.648,
+          -6.285
+        ]
+      },
+      "properties": {
+        "stop_id": "GREENWICH_PARK",
+        "name": "GREENWICH PARK",
+        "type": "HUB",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6505,
+          -6.3025
+        ]
+      },
+      "properties": {
+        "stop_id": "AEON_MALL_1",
+        "name": "AEON MALL 1",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6512,
+          -6.3018
+        ]
+      },
+      "properties": {
+        "stop_id": "AEON_MALL_2",
+        "name": "AEON MALL 2",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6495,
+          -6.301
+        ]
+      },
+      "properties": {
+        "stop_id": "CBD_BARAT_1",
+        "name": "CBD Barat 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.65,
+          -6.3005
+        ]
+      },
+      "properties": {
+        "stop_id": "CBD_BARAT_2",
+        "name": "CBD Barat 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.653,
+          -6.302
+        ]
+      },
+      "properties": {
+        "stop_id": "CBD_TIMUR_1",
+        "name": "CBD Timur 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6535,
+          -6.3015
+        ]
+      },
+      "properties": {
+        "stop_id": "CBD_TIMUR_2",
+        "name": "CBD Timur 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6515,
+          -6.3045
+        ]
+      },
+      "properties": {
+        "stop_id": "NAVAPARK_1",
+        "name": "NavaPark 1",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6595,
+          -6.296
+        ]
+      },
+      "properties": {
+        "stop_id": "GREEN_COVE",
+        "name": "Green Cove",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6585,
+          -6.2965
+        ]
+      },
+      "properties": {
+        "stop_id": "EKA_HOSPITAL_1",
+        "name": "Eka Hospital 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6588,
+          -6.297
+        ]
+      },
+      "properties": {
+        "stop_id": "EKA_HOSPITAL_2",
+        "name": "Eka Hospital 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.661,
+          -6.294
+        ]
+      },
+      "properties": {
+        "stop_id": "RUKO_MADRID",
+        "name": "Ruko Madrid",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6608,
+          -6.2945
+        ]
+      },
+      "properties": {
+        "stop_id": "POLSEK_SERPONG",
+        "name": "Polsek Serpong",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.654,
+          -6.3055
+        ]
+      },
+      "properties": {
+        "stop_id": "DE_PARK_LOBBY",
+        "name": "Lobby TheBreeze/DePark Lobby",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.655,
+          -6.308
+        ]
+      },
+      "properties": {
+        "stop_id": "VANYA_PARK",
+        "name": "VANYA PARK",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.647,
+          -6.315
+        ]
+      },
+      "properties": {
+        "stop_id": "SIMPLICITY_1",
+        "name": "Simplicity 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6472,
+          -6.3145
+        ]
+      },
+      "properties": {
+        "stop_id": "SIMPLICITY_2",
+        "name": "Simplicity 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6455,
+          -6.31
+        ]
+      },
+      "properties": {
+        "stop_id": "ELDORADO_1",
+        "name": "Eldorado 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.646,
+          -6.3095
+        ]
+      },
+      "properties": {
+        "stop_id": "ELDORADO_2",
+        "name": "Eldorado 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6455,
+          -6.2875
+        ]
+      },
+      "properties": {
+        "stop_id": "Q_BIG",
+        "name": "Q BIG",
+        "type": "HALTE_BUS",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.646,
+          -6.288
+        ]
+      },
+      "properties": {
+        "stop_id": "BCA",
+        "name": "BCA",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.647,
+          -6.2895
+        ]
+      },
+      "properties": {
+        "stop_id": "FBL_1",
+        "name": "FBL 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6472,
+          -6.29
+        ]
+      },
+      "properties": {
+        "stop_id": "FBL_2",
+        "name": "FBL 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6475,
+          -6.291
+        ]
+      },
+      "properties": {
+        "stop_id": "STUDENT_1",
+        "name": "Student 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6485,
+          -6.292
+        ]
+      },
+      "properties": {
+        "stop_id": "FORRESTA_2",
+        "name": "Foresta 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6485,
+          -6.286
+        ]
+      },
+      "properties": {
+        "stop_id": "DE_MAJA",
+        "name": "De Maja",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.649,
+          -6.2865
+        ]
+      },
+      "properties": {
+        "stop_id": "DE_NARA",
+        "name": "De Nara",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6495,
+          -6.289
+        ]
+      },
+      "properties": {
+        "stop_id": "DE_PARK_2",
+        "name": "De Park 2",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6475,
+          -6.2855
+        ]
+      },
+      "properties": {
+        "stop_id": "JATERE",
+        "name": "Jatere",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6535,
+          -6.305
+        ]
+      },
+      "properties": {
+        "stop_id": "CASA_DE_PARCO_1",
+        "name": "Casa De Parco 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6545,
+          -6.306
+        ]
+      },
+      "properties": {
+        "stop_id": "DIGITAL_HUB_1",
+        "name": "Digital Hub 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.65,
+          -6.302
+        ]
+      },
+      "properties": {
+        "stop_id": "AEON_MALL_LOBBY",
+        "name": "AEON Mall Lobby Lobby",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.652,
+          -6.303
+        ]
+      },
+      "properties": {
+        "stop_id": "SML_PLAZA",
+        "name": "SML Plaza",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6518,
+          -6.3032
+        ]
+      },
+      "properties": {
+        "stop_id": "GOP_1",
+        "name": "GOP 1",
+        "type": "BUS_STOP",
+        "inferred": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.6515,
+            -6.3045
+          ],
+          [
+            106.6535,
+            -6.3015
+          ],
+          [
+            106.653,
+            -6.302
+          ],
+          [
+            106.652,
+            -6.303
+          ],
+          [
+            106.6518,
+            -6.3032
+          ],
+          [
+            106.6495,
+            -6.301
+          ],
+          [
+            106.6512,
+            -6.3018
+          ],
+          [
+            106.6505,
+            -6.3025
+          ],
+          [
+            106.65,
+            -6.302
+          ],
+          [
+            106.6365,
+            -6.2985
+          ],
+          [
+            106.6372,
+            -6.2978
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "BREEZE_AEON_ICE",
+        "route_name": "RUTE THE BREEZE - AEON - ICE - THE BREEZE",
+        "color": "#9333EA",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.648,
+            -6.285
+          ],
+          [
+            106.6475,
+            -6.2855
+          ],
+          [
+            106.6485,
+            -6.286
+          ],
+          [
+            106.649,
+            -6.2865
+          ],
+          [
+            106.6495,
+            -6.289
+          ],
+          [
+            106.6515,
+            -6.3045
+          ],
+          [
+            106.6485,
+            -6.292
+          ],
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.653,
+            -6.302
+          ],
+          [
+            106.6605,
+            -6.2955
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "GRN_SEKT13",
+        "route_name": "RUTE GREENWICH PARK - SEKTOR I.3",
+        "color": "#166534",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6462,
+            -6.3215
+          ],
+          [
+            106.6455,
+            -6.31
+          ],
+          [
+            106.6365,
+            -6.2985
+          ],
+          [
+            106.6372,
+            -6.2978
+          ],
+          [
+            106.6455,
+            -6.2875
+          ],
+          [
+            106.646,
+            -6.288
+          ],
+          [
+            106.6472,
+            -6.29
+          ],
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.652,
+            -6.303
+          ],
+          [
+            106.6518,
+            -6.3032
+          ],
+          [
+            106.6535,
+            -6.3015
+          ],
+          [
+            106.6512,
+            -6.3018
+          ],
+          [
+            106.647,
+            -6.315
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "INT_BREEZE_INT",
+        "route_name": "RUTE INTERMODA - THE BREEZE - INTERMODA",
+        "color": "#EAB308",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6462,
+            -6.3215
+          ],
+          [
+            106.647,
+            -6.315
+          ],
+          [
+            106.6455,
+            -6.31
+          ],
+          [
+            106.6365,
+            -6.2985
+          ],
+          [
+            106.6372,
+            -6.2978
+          ],
+          [
+            106.648,
+            -6.285
+          ],
+          [
+            106.6515,
+            -6.3045
+          ],
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.652,
+            -6.303
+          ],
+          [
+            106.6535,
+            -6.305
+          ],
+          [
+            106.6545,
+            -6.306
+          ],
+          [
+            106.654,
+            -6.3055
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "INT_DEPARK_R1",
+        "route_name": "RUTE INTERMODA - DEPARK (RUTE 1)",
+        "color": "#DC2626",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6462,
+            -6.3215
+          ],
+          [
+            106.647,
+            -6.315
+          ],
+          [
+            106.6475,
+            -6.312
+          ],
+          [
+            106.6495,
+            -6.301
+          ],
+          [
+            106.6505,
+            -6.3025
+          ],
+          [
+            106.653,
+            -6.302
+          ],
+          [
+            106.6365,
+            -6.2985
+          ],
+          [
+            106.648,
+            -6.285
+          ],
+          [
+            106.6485,
+            -6.286
+          ],
+          [
+            106.646,
+            -6.288
+          ],
+          [
+            106.647,
+            -6.2895
+          ],
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.654,
+            -6.3055
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "INT_DEPARK_R2",
+        "route_name": "RUTE INTERMODA - DEPARK (RUTE 2)",
+        "color": "#EC4899",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6462,
+            -6.3215
+          ],
+          [
+            106.647,
+            -6.315
+          ],
+          [
+            106.6475,
+            -6.312
+          ],
+          [
+            106.653,
+            -6.302
+          ],
+          [
+            106.6515,
+            -6.3045
+          ],
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.6605,
+            -6.2955
+          ],
+          [
+            106.6595,
+            -6.296
+          ],
+          [
+            106.6585,
+            -6.2965
+          ],
+          [
+            106.6588,
+            -6.297
+          ],
+          [
+            106.6365,
+            -6.2985
+          ],
+          [
+            106.6372,
+            -6.2978
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "INT_SEKT13",
+        "route_name": "RUTE INTERMODA - SEKTOR I.3",
+        "color": "#1E40AF",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6462,
+            -6.3215
+          ],
+          [
+            106.655,
+            -6.308
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "INT_VANYA_INT",
+        "route_name": "RUTE INTERMODA - VANYA PARK - INTERMODA",
+        "color": "#F97316",
+        "is_inferred": true,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6605,
+            -6.2955
+          ],
+          [
+            106.6595,
+            -6.296
+          ],
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.6535,
+            -6.3015
+          ],
+          [
+            106.6515,
+            -6.3045
+          ],
+          [
+            106.6485,
+            -6.292
+          ],
+          [
+            106.6472,
+            -6.29
+          ],
+          [
+            106.646,
+            -6.288
+          ],
+          [
+            106.6455,
+            -6.2875
+          ],
+          [
+            106.648,
+            -6.285
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "SEKT13_GRN",
+        "route_name": "RUTE SEKTOR I.3 - GREENWICH PARK",
+        "color": "#84CC16",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.6605,
+            -6.2955
+          ],
+          [
+            106.6595,
+            -6.296
+          ],
+          [
+            106.6525,
+            -6.3035
+          ],
+          [
+            106.6515,
+            -6.3045
+          ],
+          [
+            106.6535,
+            -6.3015
+          ],
+          [
+            106.6505,
+            -6.3025
+          ],
+          [
+            106.6512,
+            -6.3018
+          ],
+          [
+            106.6495,
+            -6.301
+          ],
+          [
+            106.647,
+            -6.315
+          ],
+          [
+            106.6475,
+            -6.312
+          ],
+          [
+            106.6462,
+            -6.3215
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "SEKT13_INT",
+        "route_name": "RUTE SEKTOR I.3 - INTERMODA",
+        "color": "#06B6D4",
+        "is_inferred": false,
+        "missing_coords": 0
+      }
+    }
+  ],
+  "note": "generated from stops.csv lat/lng + route_stops order"
 }
