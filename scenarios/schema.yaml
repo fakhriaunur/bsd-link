@@ -1,0 +1,14 @@
+# Scenario schema
+# Minimal declarative routing scenario
+# Example: intermoda -> icon/aeon/breeze -> intermoda
+name: string          # scenario id
+origin: stop_id       # e.g., PASAR_MODERN
+destinations: [stop_id]  # must visit, order flexible unless ordered:true
+ordered: bool         # if true, visit destinations in listed order; else permute for optimal
+return_to_origin: bool # if true, return to origin after visiting
+goal: enum            # least-transfer | least-time | least-walk
+walk_edges:           # optional walk shortcuts beyond transfers
+  - from: stop_id
+    to: stop_id
+    minutes: int
+    note: string
