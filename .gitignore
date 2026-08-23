@@ -7,3 +7,7 @@ data/geo/
 .env
 .vscode/
 .idea/
+.coverage
+coverage.xml
+htmlcov/
+bsd-link.md

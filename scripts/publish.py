@@ -11,12 +11,15 @@ Publish static JSON API - thin shell over build.
 No deps, stdlib only.
 """
 
+from __future__ import annotations
+
 import argparse
 import json
 import shutil
 import subprocess
 import sys
 from pathlib import Path
+from typing import Any, Dict
 
 ROOT = Path(__file__).resolve().parents[1]
 CSV_DIR = ROOT / "data" / "csv"
@@ -24,7 +27,7 @@ JSON_DIR = ROOT / "data" / "json"
 DIST_DIR = ROOT / "dist" / "api"
 
 
-def run_build():
+def run_build() -> None:
     r = subprocess.run(
         [sys.executable, str(ROOT / "scripts" / "build.py")], capture_output=True, text=True
     )
@@ -35,30 +38,28 @@ def run_build():
     print(r.stdout.strip())
 
 
-def is_dist_stale():
+def is_dist_stale() -> bool:
     if not DIST_DIR.exists():
         return True
-    json_mtime = max((p.stat().st_mtime for p in JSON_DIR.glob("*.json")), default=0)
-    dist_mtime = max((p.stat().st_mtime for p in DIST_DIR.glob("*.json")), default=0)
-    if not list(DIST_DIR.glob("*.json")):
+    json_mtime: float = max((p.stat().st_mtime for p in JSON_DIR.glob("*.json")), default=0)
+    dist_files = list(DIST_DIR.glob("*.json"))
+    if not dist_files:
         return True
-    csv_mtime = max((p.stat().st_mtime for p in CSV_DIR.glob("*.csv")), default=0)
+    dist_mtime: float = max((p.stat().st_mtime for p in dist_files), default=0)
+    csv_mtime: float = max((p.stat().st_mtime for p in CSV_DIR.glob("*.csv")), default=0)
     return csv_mtime > json_mtime or json_mtime > dist_mtime
 
 
-def publish():
+def publish() -> None:
     run_build()
     DIST_DIR.mkdir(parents=True, exist_ok=True)
-    # copy jsons
     for p in JSON_DIR.glob("*.json"):
         shutil.copy2(p, DIST_DIR / p.name)
-    # also copy geo
     geo_src = ROOT / "data" / "geo" / "routes.geojson"
     if geo_src.exists():
         shutil.copy2(geo_src, DIST_DIR / "routes.geojson")
-    # manifest
-    meta = json.load(open(JSON_DIR / "build_meta.json"))
-    manifest = {
+    meta: Dict[str, Any] = json.load(open(JSON_DIR / "build_meta.json", encoding="utf-8"))
+    manifest: Dict[str, Any] = {
         "name": "BSD Link API",
         "version": "v1",
         "generated_at": meta.get("generated_at"),
@@ -76,9 +77,8 @@ def publish():
     }
     with open(DIST_DIR / "index.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
-    # fix Pages 404: root needs index.html + .nojekyll
     dist_root = ROOT / "dist"
-    scenarios_exist = (dist_root / "scenarios").exists() and any(
+    scenarios_exist: bool = (dist_root / "scenarios").exists() and any(
         (dist_root / "scenarios").glob("*")
     )
     scen_li = (
@@ -87,7 +87,7 @@ def publish():
         else ""
     )
     scen_p = "<p>Scenarios: <code>/scenarios/intermoda-*.json</code></p>" if scenarios_exist else ""
-    html = f"""<!doctype html><meta charset=utf-8><title>BSD Link</title>
+    html: str = f"""<!doctype html><meta charset=utf-8><title>BSD Link</title>
 <h1>BSD Link</h1>
 <p>Dataset + Scenarios</p>
 <ul>
@@ -106,7 +106,7 @@ def publish():
     )
 
 
-def main():
+def main() -> None:
     ap = argparse.ArgumentParser(description="Publish BSD Link API")
     ap.add_argument("--check", action="store_true", help="fail if dist stale")
     ap.add_argument("--dry-run", action="store_true", help="print plan, no write")
@@ -119,12 +119,12 @@ def main():
         return
     if args.dry_run:
         print(f"would publish {len(list(JSON_DIR.glob('*.json')))} json + geo -> {DIST_DIR}")
-        meta = (
-            json.load(open(JSON_DIR / "build_meta.json"))
+        meta2: Dict[str, Any] = (
+            json.load(open(JSON_DIR / "build_meta.json", encoding="utf-8"))
             if (JSON_DIR / "build_meta.json").exists()
             else {}
         )
-        print(json.dumps(meta.get("counts", {}), indent=2))
+        print(json.dumps(meta2.get("counts", {}), indent=2))
         return
     publish()
 

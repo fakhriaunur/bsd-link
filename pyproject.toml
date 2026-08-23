@@ -12,12 +12,33 @@ target-version = ["py311"]
 
 [tool.mypy]
 python_version = "3.11"
-ignore_missing_imports = true
-warn_return_any = false
+strict = true
 warn_unused_configs = true
-check_untyped_defs = false
-disallow_untyped_defs = false
-disallow_incomplete_defs = false
+ignore_missing_imports = true
+show_error_codes = true
+# strict enables check_untyped_defs, disallow_untyped_defs, etc.
+# keep ignore_missing_imports for PyYAML types
+exclude = ["tests"]
+[[tool.mypy.overrides]]
+module = "tests.*"
+ignore_errors = true
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+addopts = "--cov=scripts --cov-report=term-missing --cov-report=xml --cov-fail-under=55"
+
+[tool.coverage.run]
+source = ["scripts"]
+omit = ["tests/*", "*/__pycache__/*"]
+
+[tool.coverage.report]
+fail_under = 55
+show_missing = true
+skip_covered = false
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]

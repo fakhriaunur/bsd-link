@@ -10,4 +10,5 @@ repos:
     hooks:
       - id: mypy
         additional_dependencies: [types-PyYAML]
-        args: [--ignore-missing-imports]
+        args: [--ignore-missing-imports, --exclude, tests]
+        exclude: ^tests/

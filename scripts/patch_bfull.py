@@ -5,15 +5,19 @@ Patch B-full - apply realistic deltas per route to stop_times.csv
 Example: python scripts/patch_bfull.py --route INT_SEKT13
 """
 
+from __future__ import annotations
+
 import argparse
 import csv
 import pathlib
+from collections import defaultdict
+from typing import Dict, List
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CSV = ROOT / "data" / "csv" / "stop_times.csv"
 
 # per route delta profiles: list of deltas per hop (len = stops), first 0 for origin
-PROFILES = {
+PROFILES: Dict[str, List[int]] = {
     "INT_SEKT13": [0, 3, 4, 2, 2, 3, 4, 1, 2, 1, 5, 1],  # 12 stops
     "SEKT13_INT": [0, 1, 3, 2, 2, 2, 1, 2, 3, 4, 2],  # 11 stops
     "GRN_SEKT13": [0, 1, 2, 1, 3, 4, 2, 3, 2, 4],  # 10 stops
@@ -25,58 +29,55 @@ PROFILES = {
 }
 
 
-def time_to_min(t):
-    h, m = map(int, t.split(":"))
+def time_to_min(t: str) -> int:
+    h_str, m_str = t.split(":")
+    h, m = int(h_str), int(m_str)
     return h * 60 + m
 
 
-def min_to_time(m):
+def min_to_time(m: int) -> str:
     return f"{m // 60:02d}:{m % 60:02d}"
 
 
-def patch(route_id):
-    deltas = PROFILES.get(route_id)
+def patch(route_id: str) -> None:
+    deltas: List[int] | None = PROFILES.get(route_id)
     if not deltas:
         print(f"no profile for {route_id}, available {list(PROFILES.keys())}")
         return
 
-    rows = []
+    rows: List[Dict[str, str]] = []
     with open(CSV, newline="", encoding="utf-8") as f:
-        rows = list(csv.DictReader(f))
+        reader = csv.DictReader(f)
+        assert reader.fieldnames is not None
+        rows = [dict(r) for r in reader]
 
-    # group by trip
-    from collections import defaultdict
-
-    by_trip = defaultdict(list)
+    by_trip: Dict[str, List[Dict[str, str]]] = defaultdict(list)
     for r in rows:
         by_trip[r["trip_id"]].append(r)
 
-    # need trip->route lookup
-    trips = []
+    trips: List[Dict[str, str]] = []
     with open(ROOT / "data/csv/trips.csv", newline="", encoding="utf-8") as f:
-        trips = list(csv.DictReader(f))
-    trip_to_route = {t["trip_id"]: t["route_id"] for t in trips}
+        reader2 = csv.DictReader(f)
+        assert reader2.fieldnames is not None
+        trips = [dict(r) for r in reader2]
+    trip_to_route: Dict[str, str] = {t["trip_id"]: t["route_id"] for t in trips}
 
     patched = 0
     for trip_id, sts in by_trip.items():
         if trip_to_route.get(trip_id) != route_id:
             continue
-        sts_sorted = sorted(sts, key=lambda x: int(x["stop_seq"]))
-        # find departure time for this trip
-        dep = next((t["departure_time"] for t in trips if t["trip_id"] == trip_id), None)
+        sts_sorted: List[Dict[str, str]] = sorted(sts, key=lambda x: int(x["stop_seq"]))
+        dep: str | None = next(
+            (t["departure_time"] for t in trips if t["trip_id"] == trip_id), None
+        )
         if not dep:
             continue
-        base = time_to_min(dep)
-        # cumulative deltas
+        base: int = time_to_min(dep)
         cum = 0
         for i, st in enumerate(sts_sorted):
             if i < len(deltas):
-                cum = sum(deltas[: i + 1])  # deltas[0]=0 for first stop
-            # deltas includes 0 for first, so first stop cum 0
-            # adjust: for seq1 cum 0, seq2 cum 3, seq3 cum 7, etc.
-            # our deltas list already 0 at 0, so cumulative works
-            new_time = min_to_time(base + cum)
-            # update in rows
+                cum = sum(deltas[: i + 1])
+            new_time: str = min_to_time(base + cum)
             for r in rows:
                 if r["trip_id"] == trip_id and r["stop_id"] == st["stop_id"]:
                     r["arrival_time"] = new_time
@@ -92,7 +93,7 @@ def patch(route_id):
     print(f"patched {patched} rows for {route_id} with deltas {deltas}")
 
 
-if __name__ == "__main__":
+def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--route", help="route_id to patch")
     ap.add_argument("--all", action="store_true", help="patch all profiles")
@@ -104,3 +105,7 @@ if __name__ == "__main__":
         patch(args.route)
     else:
         print("specify --route or --all")
+
+
+if __name__ == "__main__":
+    main()

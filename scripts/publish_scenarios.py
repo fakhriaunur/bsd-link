@@ -10,11 +10,15 @@ Publish scenarios - depends on dataset snapshot, no force dataset build.
 - --dry-run: preview
 """
 
+from __future__ import annotations
+
 import argparse
 import json
 import pathlib
+import re
 import shutil
 import sys
+from typing import Any, Dict, List
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 SCEN_DIR = ROOT / "scenarios"
@@ -23,7 +27,7 @@ DIST_SCEN = ROOT / "dist" / "scenarios"
 JSON_DIR = ROOT / "data" / "json"
 
 
-def ensure_data_json_from_snapshot():
+def ensure_data_json_from_snapshot() -> None:
     """If data/json missing (gitignored after checkout), restore from dist/api snapshot"""
     if JSON_DIR.exists() and any(JSON_DIR.glob("*.json")):
         return
@@ -32,10 +36,7 @@ def ensure_data_json_from_snapshot():
         for p in DIST_API.glob("*.json"):
             if p.name == "index.json":
                 continue
-            # copy api json back to data/json for route solving (preserve build_meta, etc)
-            # dist/api has build_meta, halte_index etc. which correspond to data/json
             shutil.copy2(p, JSON_DIR / p.name)
-        # geo not needed for scenarios but ensure
         geo_src = DIST_API / "routes.geojson"
         if geo_src.exists():
             (ROOT / "data" / "geo").mkdir(parents=True, exist_ok=True)
@@ -46,94 +47,94 @@ def ensure_data_json_from_snapshot():
         sys.exit(1)
 
 
-def is_stale():
+def is_stale() -> bool:
     if not DIST_SCEN.exists():
         return True
-    scen_files = list(SCEN_DIR.glob("*.yaml"))
+    scen_files: List[pathlib.Path] = list(SCEN_DIR.glob("*.yaml"))
     if not scen_files:
         return False
-    scen_mtime = max(p.stat().st_mtime for p in scen_files)
-    dist_files = list(DIST_SCEN.glob("*"))
+    scen_mtime: float = max(p.stat().st_mtime for p in scen_files)
+    dist_files: List[pathlib.Path] = list(DIST_SCEN.glob("*"))
     if not dist_files:
         return True
-    dist_mtime = max(p.stat().st_mtime for p in dist_files)
+    dist_mtime: float = max(p.stat().st_mtime for p in dist_files)
     return scen_mtime > dist_mtime
 
 
-def publish():
+def _load_yaml(path: pathlib.Path) -> Dict[str, Any]:
+    try:
+        import yaml
+
+        data: Any = yaml.safe_load(open(path, encoding="utf-8"))
+        if isinstance(data, dict):
+            return dict(data)
+        return {}
+    except Exception:
+        text: str = open(path, encoding="utf-8").read()
+        data2: Dict[str, Any] = {}
+        # try bsd loader
+        try:
+            sys.path.insert(0, str(ROOT / "scripts"))
+            import bsd
+
+            loaded: Any = bsd.load_scenario(str(path))
+            if isinstance(loaded, dict):
+                return dict(loaded)
+        except Exception:
+            pass
+        lines: List[str] = text.splitlines()
+        for line in lines:
+            m = re.match(r"^(\w+):\s*(.*)", line.strip())
+            if m:
+                k: str = m.group(1)
+                v: str = m.group(2).strip()
+                if k == "destinations" and v.startswith("["):
+                    data2[k] = [x.strip() for x in v[1:-1].split(",") if x.strip()]
+                elif v.lower() in ("true", "false"):
+                    data2[k] = v.lower() == "true"
+                else:
+                    data2[k] = v
+        data2["walk_edges"] = data2.get("walk_edges", [])
+        return data2
+
+
+def publish() -> None:
     ensure_data_json_from_snapshot()
-    # ensure api dist exists (snapshot)
     if not DIST_API.exists():
         print("dist/api missing - dataset publish required first", file=sys.stderr)
         sys.exit(1)
 
     DIST_SCEN.mkdir(parents=True, exist_ok=True)
 
-    # load data for solving
     import route
 
-    route_stops = json.load(open(JSON_DIR / "route_stops.json"))
-    stop_times = json.load(open(JSON_DIR / "stop_times.json"))
-    trips = json.load(open(JSON_DIR / "trips.json"))
-
-    # helper to load yaml
-    def load_yaml(path):
-        try:
-            import yaml
-
-            return yaml.safe_load(open(path, encoding="utf-8"))
-        except Exception:
-            # fallback simple parser from bsd.py
-            import re
-
-            text = open(path, encoding="utf-8").read()
-            data = {}
-            # very minimal - use bsd.py's parser if available
-            # fallback: try to import bsd
-            try:
-                sys.path.insert(0, str(ROOT / "scripts"))
-                import bsd
-
-                return bsd.load_scenario(str(path))
-            except Exception:
-                pass
-            # simple
-            lines = text.splitlines()
-            for line in lines:
-                m = re.match(r"^(\w+):\s*(.*)", line.strip())
-                if m:
-                    k, v = m.group(1), m.group(2).strip()
-                    if k == "destinations" and v.startswith("["):
-                        data[k] = [x.strip() for x in v[1:-1].split(",") if x.strip()]
-                    elif v.lower() in ("true", "false"):
-                        data[k] = v.lower() == "true"
-                    else:
-                        data[k] = v
-            data["walk_edges"] = data.get("walk_edges", [])
-            return data
+    route_stops: List[Dict[str, Any]] = json.load(
+        open(JSON_DIR / "route_stops.json", encoding="utf-8")
+    )
+    stop_times: List[Dict[str, Any]] = json.load(
+        open(JSON_DIR / "stop_times.json", encoding="utf-8")
+    )
+    trips: List[Dict[str, Any]] = json.load(open(JSON_DIR / "trips.json", encoding="utf-8"))
 
     count = 0
     for yaml_path in sorted(SCEN_DIR.glob("*.yaml")):
         if yaml_path.name == "schema.yaml":
             continue
-        scen = load_yaml(yaml_path)
+        scen: Dict[str, Any] = _load_yaml(yaml_path)
         if not scen or "origin" not in scen:
             print(f"skip invalid {yaml_path.name}")
             continue
-        # validate
-        res = route.solve_scenario(scen, route_stops, stop_times, trips)
+        res: Dict[str, Any] = route.solve_scenario(scen, route_stops, stop_times, trips)
         out_path = DIST_SCEN / f"{yaml_path.stem}.json"
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(res, f, indent=2, ensure_ascii=False)
-        # copy yaml as well for reference
         shutil.copy2(yaml_path, DIST_SCEN / yaml_path.name)
         count += 1
         print(
             f"solved {yaml_path.name} -> {out_path.name} transfers={res.get('total_transfers')} time={res.get('total_time')}"
         )
 
-    # index
-    manifest = {
+    manifest: Dict[str, Any] = {
         "name": "BSD Link Scenarios",
         "generated_at": __import__("datetime").datetime.utcnow().isoformat() + "Z",
         "counts": {"scenarios": count},
@@ -143,20 +144,19 @@ def publish():
     with open(DIST_SCEN / "index.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
 
-    # update root index.html to include scenarios (preserve api index.html logic from publish.py)
     dist_root = ROOT / "dist"
-    scen_exists = (dist_root / "scenarios" / "index.json").exists()
-    scen_li = (
+    scen_exists: bool = (dist_root / "scenarios" / "index.json").exists()
+    scen_li: str = (
         '<li><a href="scenarios/index.json">scenarios/index.json</a> - scenario results</li>'
         if scen_exists
         else ""
     )
-    scen_p = (
+    scen_p: str = (
         "<p>Scenarios: <code>/scenarios/intermoda-*.json</code> + <code>.yaml</code></p>"
         if scen_exists
         else ""
     )
-    html = f"""<!doctype html><meta charset=utf-8><title>BSD Link</title>
+    html: str = f"""<!doctype html><meta charset=utf-8><title>BSD Link</title>
 <h1>BSD Link</h1>
 <p>Dataset + Scenarios</p>
 <ul>
@@ -173,7 +173,7 @@ def publish():
     print(f"publish_scenarios ok: {count} scenarios -> {DIST_SCEN}, index.html updated")
 
 
-def main():
+def main() -> None:
     ap = argparse.ArgumentParser(description="Publish scenarios snapshot")
     ap.add_argument("--check", action="store_true", help="fail if stale")
     ap.add_argument("--dry-run", action="store_true", help="preview")
