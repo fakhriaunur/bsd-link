@@ -25,15 +25,22 @@ python scripts/build.py              # validate + derive data/json
 python scripts/build.py --check      # fail if JSON stale
 ```
 
-## Coverage
+## Coverage (validated `build_meta.json` 2026)
 
-| Route | Stops | Trips | StopTimes | Source |
-|-------|-------|-------|-----------|--------|
-| INT_SEKT13 | 13 | 13 | ~169 | Image1 |
-| ... | ... | ... | ... | ... |
-| INT_VANYA_INT | ~10 inferred | 0 | 0 | overview low-res |
+| Route | Stops | Trips | StopTimes | Source | Inferred |
+|-------|-------|-------|-----------|--------|----------|
+| INT_SEKT13 | 12 | 13 | 156 | Image1 | false |
+| SEKT13_INT | 11 | 13 | 143 | Image2 | false |
+| GRN_SEKT13 | 10 | 13 | 130 | Image3 | false |
+| SEKT13_GRN | 10 | 13 | 130 | Image4 | false |
+| INT_DEPARK_R1 | 12 | 14 | 168 | Image5 | false |
+| INT_DEPARK_R2 | 13 | 14 | 182 | Image6 | false |
+| BREEZE_AEON_ICE | 12 | 14 | 168 | Image7 | false |
+| INT_BREEZE_INT | 13 | 14 | 182 | Image9 | false |
+| INT_VANYA_INT | 2 | 0 | 0 | overview | true |
+| **Total** | **95 route_stops** | **108** | **1259** | 41 deduped haltes, halte_index 34 | 1 route, 2 stops inferred |
 
-Vanya Park: orange line inferred from overview image, `is_inferred=true`, timetable not available - needs high-res singular image.
+Vanya Park: orange line inferred from overview image, `is_inferred=true`, timetable not available - needs high-res singular image. See `docs/vanya_observation.md`.
 
 ## Directory
 
