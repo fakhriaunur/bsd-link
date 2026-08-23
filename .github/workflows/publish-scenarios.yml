@@ -29,7 +29,7 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install pytest pyyaml
-      # no dataset build - depends on snapshot from last publish-dataset (dist/api committed)
+      - run: python scripts/build.py
       - run: python -m pytest tests/test_route.py -q
       - run: python scripts/publish_scenarios.py
       - run: python scripts/publish_scenarios.py --check
